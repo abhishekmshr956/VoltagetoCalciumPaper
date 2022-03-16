@@ -1,0 +1,33 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'Voltage_Calcium_Paper.blg'
+[25] biber-darwin:313> INFO - === Wed Mar 16, 2022, 12:10:19
+[43] Biber.pm:371> INFO - Reading 'Voltage_Calcium_Paper.bcf'
+[103] Biber.pm:857> INFO - Found 22 citekeys in bib section 0
+[114] Biber.pm:3976> INFO - Processing section 0
+[122] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
+[126] bibtex.pm:1500> INFO - LaTeX decoding ...
+[200] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
+[225] Utils.pm:193> WARN - ISBN '00063495/81/03/3' in entry 'Llinas1981' is invalid - run biber with '--validate_datamodel' for details.
+[231] Utils.pm:193> WARN - month field 'aug' in entry 'DiMaio2008' is not an integer - this will probably not sort properly.
+[236] Utils.pm:193> WARN - month field 'mar' in entry 'Borst2020' is not an integer - this will probably not sort properly.
+[243] Utils.pm:193> WARN - month field 'nov' in entry 'Joesch2010' is not an integer - this will probably not sort properly.
+[249] Utils.pm:193> WARN - month field 'jun' in entry 'Eichner2011' is not an integer - this will probably not sort properly.
+[268] Utils.pm:193> WARN - month field 'oct' in entry 'Hassenstein1956' is not an integer - this will probably not sort properly.
+[271] Utils.pm:193> WARN - month field 'jun' in entry 'Barlow1965' is not an integer - this will probably not sort properly.
+[275] Utils.pm:193> WARN - month field 'oct' in entry 'Fisher2015' is not an integer - this will probably not sort properly.
+[285] Utils.pm:193> WARN - month field 'oct' in entry 'Salazar-Gatzimas2016' is not an integer - this will probably not sort properly.
+[289] Utils.pm:193> WARN - month field 'feb' in entry 'Gruntman2018' is not an integer - this will probably not sort properly.
+[295] Utils.pm:193> WARN - month field 'aug' in entry 'Haag2016' is not an integer - this will probably not sort properly.
+[314] Utils.pm:193> WARN - month field 'jul' in entry 'Chen2013' is not an integer - this will probably not sort properly.
+[321] Utils.pm:193> WARN - month field 'sep' in entry 'Jin2012' is not an integer - this will probably not sort properly.
+[330] Utils.pm:193> WARN - month field 'aug' in entry 'Mazurek2014' is not an integer - this will probably not sort properly.
+[357] Utils.pm:193> WARN - month field 'may' in entry 'Pologruto2003' is not an integer - this will probably not sort properly.
+[364] Utils.pm:193> WARN - month field 'apr' in entry 'Arenz2017' is not an integer - this will probably not sort properly.
+[369] Utils.pm:193> WARN - month field 'dec' in entry 'Jia2010' is not an integer - this will probably not sort properly.
+[409] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[409] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[409] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[409] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[436] bbl.pm:617> INFO - Writing 'Voltage_Calcium_Paper.bbl' with encoding 'UTF-8'
+[470] bbl.pm:720> INFO - Output to Voltage_Calcium_Paper.bbl
+[470] Biber.pm:110> INFO - WARNINGS: 17

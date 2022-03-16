@@ -1,0 +1,1544 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{Hassenstein1956}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=ff2bf761bc6c070e4c33fe43c12c3b8b}{%
+           family={Hassenstein},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=47c7be047e35700c97602a3a8ae8ede9}{%
+           family={Reichardt},
+           familyi={R\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50bbebed310cc9bc6e78a5d5c6deda90}
+      \strng{fullhash}{50bbebed310cc9bc6e78a5d5c6deda90}
+      \strng{bibnamehash}{50bbebed310cc9bc6e78a5d5c6deda90}
+      \strng{authorbibnamehash}{50bbebed310cc9bc6e78a5d5c6deda90}
+      \strng{authornamehash}{50bbebed310cc9bc6e78a5d5c6deda90}
+      \strng{authorfullhash}{50bbebed310cc9bc6e78a5d5c6deda90}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>Der R{ü}sselk{ä}fer Chlorophanus viridis reagiert wie viele andere Organismen auf Bewegungen in seiner optischen Umwelt mit charakteristischen Verhaltensweisen. Dem liegt eine Auswertung von Relationen zwischen einzelnen Lichtreizen zugrunde. Die Funktionsstruktur dieser Auswertungsleistung wird ermittelt. Das Ergebnis der Analyse ist in Abb. 8 dargestellt.</p>}
+      \field{issn}{1865-7117}
+      \field{journaltitle}{Zeitschrift f{ü}r Naturforschung B}
+      \field{month}{10}
+      \field{number}{9-10}
+      \field{title}{{Systemtheoretische Analyse der Zeit-, Reihenfolgen- und Vorzeichenauswertung bei der Bewegungsperzeption des R{ü}sselk{ä}fers Chlorophanus}}
+      \field{volume}{11}
+      \field{year}{1956}
+      \field{pages}{513\bibrangedash 524}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1515/znb-1956-9-1004
+      \endverb
+      \verb{urlraw}
+      \verb http://www.degruyter.com/view/j/znb.1956.11.issue-9-10/znb-1956-9-1004/znb-1956-9-1004.xml
+      \endverb
+      \verb{url}
+      \verb http://www.degruyter.com/view/j/znb.1956.11.issue-9-10/znb-1956-9-1004/znb-1956-9-1004.xml
+      \endverb
+    \endentry
+    \entry{Barlow1965}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=f240fae9aab1d66214deb370aac09389}{%
+           family={Barlow},
+           familyi={B\bibinitperiod},
+           given={H\bibnamedelima B},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b93ecb3c1a3d866bae83456773b6f63}{%
+           family={Levick},
+           familyi={L\bibinitperiod},
+           given={W\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{682b6d63aa8c3103205cfc2238a37e93}
+      \strng{fullhash}{682b6d63aa8c3103205cfc2238a37e93}
+      \strng{bibnamehash}{682b6d63aa8c3103205cfc2238a37e93}
+      \strng{authorbibnamehash}{682b6d63aa8c3103205cfc2238a37e93}
+      \strng{authornamehash}{682b6d63aa8c3103205cfc2238a37e93}
+      \strng{authorfullhash}{682b6d63aa8c3103205cfc2238a37e93}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00223751}
+      \field{journaltitle}{The Journal of Physiology}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{{The mechanism of directionally selective units in rabbit's retina.}}
+      \field{volume}{178}
+      \field{year}{1965}
+      \field{pages}{477\bibrangedash 504}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1113/jphysiol.1965.sp007638
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1113/jphysiol.1965.sp007638
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1113/jphysiol.1965.sp007638
+      \endverb
+    \endentry
+    \entry{Llinas1981}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=387c42d4b551c0fc0e74112c712b858d}{%
+           family={Llin{á}s},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=33c62d29f18e508f518840c075d6d433}{%
+           family={Steinberg},
+           familyi={S\bibinitperiod},
+           given={I.\bibnamedelimi Z.},
+           giveni={I\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=70d4b7a9764372815560c65c7ceb9f0b}{%
+           family={Walton},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Biophysical Society}%
+      }
+      \strng{namehash}{fad3e1a8e4acd939607d3ee9f64a85a6}
+      \strng{fullhash}{6ef6d8283a799e8fc4f011fea2fc6dd6}
+      \strng{bibnamehash}{6ef6d8283a799e8fc4f011fea2fc6dd6}
+      \strng{authorbibnamehash}{6ef6d8283a799e8fc4f011fea2fc6dd6}
+      \strng{authornamehash}{fad3e1a8e4acd939607d3ee9f64a85a6}
+      \strng{authorfullhash}{6ef6d8283a799e8fc4f011fea2fc6dd6}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The relationship between calcium current and transmitter release was studied in squid giant synapse. It was found that the voltage-dependent calcium current triggers the release of synaptic transmitter in direct proportion to its magnitude and duration. Transmitter release occurs with a delay of approximately 200 mus after the influx of calcium. A model is presented which describes these relations formally. {©} 1981, The Biophysical Society. All rights reserved.}
+      \field{isbn}{00063495/81/03/3}
+      \field{issn}{00063495}
+      \field{journaltitle}{Biophysical Journal}
+      \field{number}{3}
+      \field{title}{{Relationship between presynaptic calcium current and postsynaptic potential in squid giant synapse.}}
+      \field{volume}{33}
+      \field{year}{1981}
+      \field{pages}{323}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/S0006-3495(81)84899-0
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Llin{\'{a}}s, Steinberg, Walton - 1981 - Relationship between presynaptic calcium current and postsynaptic potential in squid giant synapse.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb /pmc/articles/PMC1327434/?report=abstract https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1327434/
+      \endverb
+      \verb{url}
+      \verb /pmc/articles/PMC1327434/?report=abstract%20https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1327434/
+      \endverb
+    \endentry
+    \entry{Denk1990}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=d18823c5bb8d992572cfd964f5d82f9e}{%
+           family={Denk},
+           familyi={D\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3afde764d10813fbf96009e708e4e262}{%
+           family={Strickler},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6654915543f7c3b01c1d23a5a239a7a1}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Watt\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Science}%
+      }
+      \strng{namehash}{b7752ed852d17c3ab481fedfc63bee44}
+      \strng{fullhash}{c8f3d4d9143513e5fb2c3784349704f9}
+      \strng{bibnamehash}{c8f3d4d9143513e5fb2c3784349704f9}
+      \strng{authorbibnamehash}{c8f3d4d9143513e5fb2c3784349704f9}
+      \strng{authornamehash}{b7752ed852d17c3ab481fedfc63bee44}
+      \strng{authorfullhash}{c8f3d4d9143513e5fb2c3784349704f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Molecular excitation by the simultaneous absorption of two photons provides intrinsic three-dimensional resolution in laser scaniing fluorescence microscopy. The excitation of fluorophores having single-photon absorption in the ultraviolet with a stream of strongly focused subpicosecond pulses ofred laser light has made possible fluorescence images of living cells and other microscopic objects. The fluorescence emission increased quadratically with the excitation intensity so that fluorescence and photobleaching were confined to the vicinity of the focal plane as expected for cooperative two-photon excitation. This technique also provides unprecedented capabilities for three-dimensional, spatially resolved photochemistry, particularly photolytic release of caged effector molecules.}
+      \field{issn}{00368075}
+      \field{journaltitle}{Science}
+      \field{number}{4951}
+      \field{title}{{Two-photon laser scanning fluorescence microscopy}}
+      \field{volume}{248}
+      \field{year}{1990}
+      \field{pages}{73\bibrangedash 76}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.2321027
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/W, JH, WW - 1990 - Two-photon laser scanning fluorescence microscopy.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/2321027/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/2321027/
+      \endverb
+      \keyw{Animals,Cell Line,Chromosomes / ultrastructure,Fluorescence / methods*,Fluorescent Dyes,J H Strickler,Kidney / ultrastructure,Lasers*,MEDLINE,Microscopy,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Non-P.H.S.,Non-U.S. Gov't,P.H.S.,Photochemistry,PubMed Abstract,Radiation*,Research Support,Swine,U.S. Gov't,Ultraviolet Rays,W Denk,W W Webb,doi:10.1126/science.2321027,pmid:2321027}
+    \endentry
+    \entry{Chapman2002}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bc760228fd7789fcad2b4540aafb4499}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Edwin\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{bc760228fd7789fcad2b4540aafb4499}
+      \strng{fullhash}{bc760228fd7789fcad2b4540aafb4499}
+      \strng{bibnamehash}{bc760228fd7789fcad2b4540aafb4499}
+      \strng{authorbibnamehash}{bc760228fd7789fcad2b4540aafb4499}
+      \strng{authornamehash}{bc760228fd7789fcad2b4540aafb4499}
+      \strng{authorfullhash}{bc760228fd7789fcad2b4540aafb4499}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has been fifty years since the discovery that Ca2+ triggers the rapid exocytosis of neurotransmitters from neurons. One of the proteins that has a crucial role in this secretion event is synaptotagmin I, an abundant constituent of synaptic vesicles that binds Ca2+ ions through two C2 domains. These properties prompted the idea that synaptotagmin I might function as a Ca2+-sensor that triggers neurotransmitter release. So does synaptotagmin trigger exocytosis in a Ca2+-dependent manner, and, if so, how does it operate?}
+      \field{issn}{1471-0080}
+      \field{journaltitle}{Nature Reviews Molecular Cell Biology 2002 3:7}
+      \field{number}{7}
+      \field{title}{{Synaptotagmin: A Ca2+ sensor that triggers exocytosis?}}
+      \field{volume}{3}
+      \field{year}{2002}
+      \field{pages}{498\bibrangedash 508}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/nrm855
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Chapman - 2002 - Synaptotagmin A Ca2 sensor that triggers exocytosis.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nrm855
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nrm855
+      \endverb
+      \keyw{Biochemistry,Cancer Research,Cell Biology,Developmental Biology,Life Sciences,Stem Cells,general}
+    \endentry
+    \entry{Pologruto2003}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=4fa2e8d82e7e0482f1cb41933e1bd50d}{%
+           family={Pologruto},
+           familyi={P\bibinitperiod},
+           given={Thomas\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=eb6932067f86736d2b245a7df04fd7e0}{%
+           family={Sabatini},
+           familyi={S\bibinitperiod},
+           given={Bernardo\bibnamedelima L},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2cbb31e2d44cbba758618ce79c34b22}{%
+           family={Svoboda},
+           familyi={S\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{08a61cc56b98ef94e2066b5a508ea602}
+      \strng{fullhash}{9a15217cf58adde0f8973ee34003a024}
+      \strng{bibnamehash}{9a15217cf58adde0f8973ee34003a024}
+      \strng{authorbibnamehash}{9a15217cf58adde0f8973ee34003a024}
+      \strng{authornamehash}{08a61cc56b98ef94e2066b5a508ea602}
+      \strng{authorfullhash}{9a15217cf58adde0f8973ee34003a024}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Laser scanning microscopy is a powerful tool for analyzing the structure and function of biological specimens. Although numerous commercial laser scanning microscopes exist, some of the more interesting and challenging applications demand custom design. A major impediment to custom design is the difficulty of building custom data acquisition hardware and writing the complex software required to run the laser scanning microscope. We describe a simple, software-based approach to operating a laser scanning microscope without the need for custom data acquisition hardware. Data acquisition and control of laser scanning are achieved through standard data acquisition boards. The entire burden of signal integration and image processing is placed on the CPU of the computer. We quantitate the effectiveness of our data acquisition and signal conditioning algorithm under a variety of conditions. We implement our approach in an open source software package (ScanImage) and describe its functionality. We present ScanImage, software to run a flexible laser scanning microscope that allows easy custom design.}
+      \field{issn}{1475925X}
+      \field{journaltitle}{BioMedical Engineering OnLine}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{{ScanImage: Flexible software for operating laser scanning microscopes}}
+      \field{volume}{2}
+      \field{year}{2003}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/1475-925X-2-13
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Pologruto, Sabatini, Svoboda - 2003 - ScanImage Flexible software for operating laser scanning microscopes.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-2-13
+      \endverb
+      \verb{url}
+      \verb http://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-2-13
+      \endverb
+      \keyw{Biomedical Engineering}
+    \endentry
+    \entry{DiMaio2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8e737552677f931e3a955fa80b8e6768}{%
+           family={{Di Maio}},
+           familyi={D\bibinitperiod},
+           given={Vito},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8e737552677f931e3a955fa80b8e6768}
+      \strng{fullhash}{8e737552677f931e3a955fa80b8e6768}
+      \strng{bibnamehash}{8e737552677f931e3a955fa80b8e6768}
+      \strng{authorbibnamehash}{8e737552677f931e3a955fa80b8e6768}
+      \strng{authornamehash}{8e737552677f931e3a955fa80b8e6768}
+      \strng{authorfullhash}{8e737552677f931e3a955fa80b8e6768}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The largest part of information passed among neurons in the brain occurs by the means of chemical synapses connecting the axons of presynaptic neurons to the dendritic tree of the postsynaptic ones. In the present paper, the most relevant open problems related to the mechanisms of control of the information passing among neurons by synaptic transmission will be shortly reviewed. The "cross talking" between synapses, their mutual interactions and the control of the information flow between different areas of the dendritic tree will be also considered. The threshold mechanism based on the "reversal potential" will be considered for its role in the control of information transfer among neurons and also for its contribution to the information flow among different areas of the dendritic tree and to the computational ability of the single neuron. The concept of "competition for plasticity" will be proposed as a mechanism of competition based on the synaptic activation time. {©} 2008 Elsevier B.V. All rights reserved.}
+      \field{issn}{0006-8993}
+      \field{journaltitle}{Brain Research}
+      \field{month}{8}
+      \field{title}{{Regulation of information passing by synaptic transmission: A short review}}
+      \field{volume}{1225}
+      \field{year}{2008}
+      \field{pages}{26\bibrangedash 38}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/J.BRAINRES.2008.06.016
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Di Maio - 2008 - Regulation of information passing by synaptic transmission A short review.pdf:pdf
+      \endverb
+      \keyw{Neural coding,Neural information processing,Neuronal modelling,Synaptic competition,Synaptic integration,Synaptic interaction}
+    \endentry
+    \entry{Jia2010}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=1419fcbe72ef681d43a50196da27935e}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Hongbo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a05f87165f0133ee5a017daecb951d41}{%
+           family={Rochefort},
+           familyi={R\bibinitperiod},
+           given={Nathalie\bibnamedelima L.},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=757000857f6d5a5f350d4187b81b9272}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3fdd45f90063e6d3000a476b15ffca9e}{%
+           family={Konnerth},
+           familyi={K\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{56174f7d12ad9a6be29ce9c891ca84b2}
+      \strng{fullhash}{e8cfae305bbe0e41696f5021687a50dc}
+      \strng{bibnamehash}{e8cfae305bbe0e41696f5021687a50dc}
+      \strng{authorbibnamehash}{e8cfae305bbe0e41696f5021687a50dc}
+      \strng{authornamehash}{56174f7d12ad9a6be29ce9c891ca84b2}
+      \strng{authorfullhash}{e8cfae305bbe0e41696f5021687a50dc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neurons in cortical sensory regions receive modality-specific information through synapses that are located on their dendrites. Recently, the use of two-photon microscopy combined with whole-cell recordings has helped to identify visually evoked dendritic calcium signals in mouse visual cortical neurons in vivo. The calcium signals are restricted to small dendritic domains ('hotspots') and they represent visual synaptic inputs that are highly tuned for orientation and direction. This protocol describes the experimental procedures for the recording and the analysis of these visually evoked dendritic calcium signals. The key points of this method include delivery of fluorescent calcium indicators through the recording patch pipette, selection of an appropriate optical plane with many dendrites, hyperpolarization of the membrane potential and two-photon imaging. The whole protocol can be completed in 5–6 h, including 1–2 h of two-photon calcium imaging in combination with stable whole-cell recordings.}
+      \field{issn}{1750-2799}
+      \field{journaltitle}{Nature Protocols 2010 6:1}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{In vivo two-photon imaging of sensory-evoked dendritic calcium signals in cortical neurons}}
+      \field{volume}{6}
+      \field{year}{2010}
+      \field{pages}{28\bibrangedash 35}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1038/nprot.2010.169
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Jia et al. - 2010 - In vivo two-photon imaging of sensory-evoked dendritic calcium signals in cortical neurons.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nprot.2010.169
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nprot.2010.169
+      \endverb
+      \keyw{Calcium signalling,Imaging,Neuronal development,Patch clamp}
+    \endentry
+    \entry{Joesch2010}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=4164aaeddc1ff5520f5b6588b3405d0a}{%
+           family={Joesch},
+           familyi={J\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e2c40db01269e90359d224d366ed572e}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9414d892c1bfd3167767d5cbc635aa67}{%
+           family={Raghu},
+           familyi={R\bibinitperiod},
+           given={Shamprasad\bibnamedelima Varija},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b3af7fd69f91a4c41ef6edbc83c42b2}{%
+           family={Reiff},
+           familyi={R\bibinitperiod},
+           given={Dierk\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{785e8986c2b0942e2ad398663166f8f6}
+      \strng{fullhash}{a93c3b732225544d795e8c547643436e}
+      \strng{bibnamehash}{a93c3b732225544d795e8c547643436e}
+      \strng{authorbibnamehash}{a93c3b732225544d795e8c547643436e}
+      \strng{authornamehash}{785e8986c2b0942e2ad398663166f8f6}
+      \strng{authorfullhash}{a93c3b732225544d795e8c547643436e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Towards the end of the nineteenth century, Ram{ó}n y Cajal, the founding father of neuroscience, observed similarities between the vertebrate retina and the insect eye. His conclusions were based purely on anatomy. Now, using state-of-the-art genetics and electrophysiology, Alexander Borst and colleagues confirm the similarity between vertebrate and insect retinal circuitry, this time at the functional level. They have distinguished motion-sensitive neurons responding to abrupt increases in light (ON-neurons), from those specific for light decrements (OFF-neurons), in the fruitfly Drosophila. Clearly, the selection pressure for efficient motion detection through variations in light intensity has generated similar circuitries in these evolutionarily distant species. Ram{ó}n y Cajal, the founding father of neuroscience, observed similarities between the vertebrate retina and the insect eye, but that was based purely on anatomy. Using state-of-the-art genetics and electrophysiology in the fruitfly, these authors distinguish motion-sensitive neurons responding to abrupt increases in light from those specific to light decrements, thus bringing the similarity with vertebrate circuitry to the functional level. Motion vision is a major function of all visual systems, yet the underlying neural mechanisms and circuits are still elusive. In the lamina, the first optic neuropile of Drosophila melanogaster, photoreceptor signals split into five parallel pathways, L1–L51. Here we examine how these pathways contribute to visual motion detection by combining genetic block and reconstitution of neural activity in different lamina cell types with whole-cell recordings from downstream motion-sensitive neurons2,3. We find reduced responses to moving gratings if L1 or L2 is blocked; however, reconstitution of photoreceptor input to only L1 or L2 results in wild-type responses. Thus, the first experiment indicates the necessity of both pathways, whereas the second indicates sufficiency of each single pathway. This contradiction can be explained by electrical coupling between L1 and L2, allowing for activation of both pathways even when only one of them receives photoreceptor input. A fundamental difference between the L1 pathway and the L2 pathway is uncovered when blocking L1 or L2 output while presenting moving edges of positive (ON) or negative (OFF) contrast polarity: blocking L1 eliminates the response to moving ON edges, whereas blocking L2 eliminates the response to moving OFF edges. Thus, similar to the segregation of photoreceptor signals in ON and OFF bipolar cell pathways in the vertebrate retina4, photoreceptor signals segregate into ON-L1 and OFF-L2 channels in the lamina of Drosophila.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature 2010 468:7321}
+      \field{month}{11}
+      \field{number}{7321}
+      \field{title}{{ON and OFF pathways in Drosophila motion vision}}
+      \field{volume}{468}
+      \field{year}{2010}
+      \field{pages}{300\bibrangedash 304}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature09545
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nature09545
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nature09545
+      \endverb
+      \keyw{Motion detection,Network models,Neuronal development,Neuronal physiology}
+    \endentry
+    \entry{Eichner2011}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=3ac971440ffbdf36c814fe9483719d2c}{%
+           family={Eichner},
+           familyi={E\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4164aaeddc1ff5520f5b6588b3405d0a}{%
+           family={Joesch},
+           familyi={J\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e2c40db01269e90359d224d366ed572e}{%
+           family={Schnell},
+           familyi={S\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b3af7fd69f91a4c41ef6edbc83c42b2}{%
+           family={Reiff},
+           familyi={R\bibinitperiod},
+           given={Dierk\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cell Press}%
+      }
+      \strng{namehash}{baadf2629ddc4ee059865f8eeecd934c}
+      \strng{fullhash}{e9a5d2ce18f421f162e767b2f816c674}
+      \strng{bibnamehash}{e9a5d2ce18f421f162e767b2f816c674}
+      \strng{authorbibnamehash}{e9a5d2ce18f421f162e767b2f816c674}
+      \strng{authornamehash}{baadf2629ddc4ee059865f8eeecd934c}
+      \strng{authorfullhash}{e9a5d2ce18f421f162e767b2f816c674}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent experiments have shown that motion detection in Drosophila starts with splitting the visual input into two parallel channels encoding brightness increments (ON) or decrements (OFF). This suggests the existence of either two (ON-ON, OFF-OFF) or four (for all pairwise interactions) separate motion detectors. To decide between these possibilities, we stimulated flies using sequences of ON and OFF brightness pulses while recording from motion-sensitive tangential cells. We found direction-selective responses to sequences of same sign (ON-ON, OFF-OFF), but not of opposite sign (ON-OFF, OFF-ON), refuting the existence of four separate detectors. Based on further measurements, we propose a model that reproduces a variety of additional experimental data sets, including ones that were previously interpreted as support for four separate detectors. Our experiments and the derived model mark an important step in guiding further dissection of the fly motion detection circuit. {©} 2011 Elsevier Inc.}
+      \field{issn}{0896-6273}
+      \field{journaltitle}{Neuron}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Internal Structure of the Fly Elementary Motion Detector}}
+      \field{volume}{70}
+      \field{year}{2011}
+      \field{pages}{1155\bibrangedash 1164}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/J.NEURON.2011.03.028
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Eichner et al. - 2011 - Internal Structure of the Fly Elementary Motion Detector(2).pdf:pdf
+      \endverb
+    \endentry
+    \entry{Jin2012}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=05c27065209fca515d01d7301fb08b9f}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e4f7fbce35e39f36a891b15eb192bcaf}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Zhou},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb837044c08946b49a02a3ddaacd5f9c}{%
+           family={Platisa},
+           familyi={P\bibinitperiod},
+           given={Jelena},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9cae38084e5f01361b3e6755e736374d}{%
+           family={Wooltorton},
+           familyi={W\bibinitperiod},
+           given={Julian\bibnamedelima R.A.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a4148005f29e6f8acb207b1c4abd005b}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Lawrence\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0b1cfe8702a3e85589be809d8a90c4bd}{%
+           family={Pieribone},
+           familyi={P\bibinitperiod},
+           given={Vincent\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cell Press}%
+      }
+      \strng{namehash}{8f8a948c517f66880991e61d3aae61d1}
+      \strng{fullhash}{0fc1a97015bd249d99cc1f907a40cb4c}
+      \strng{bibnamehash}{8f8a948c517f66880991e61d3aae61d1}
+      \strng{authorbibnamehash}{8f8a948c517f66880991e61d3aae61d1}
+      \strng{authornamehash}{8f8a948c517f66880991e61d3aae61d1}
+      \strng{authorfullhash}{0fc1a97015bd249d99cc1f907a40cb4c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Monitoring neuronal electrical activity using fluorescent protein-based voltage sensors has been limited by small response magnitudes and slow kinetics of existing probes. Here we report the development of a fluorescent protein voltage sensor, named ArcLight, and derivative probes that exhibit large changes in fluorescence intensity in response to voltage changes. ArcLight consists of the voltage-sensing domain of Ciona intestinalis voltage-sensitive phosphatase and super ecliptic pHluorin that carries the point mutation A227D. The fluorescence intensity of ArcLight A242 decreases by 35 in response to a 100mV depolarization when measured in HEK293 cells, which is more than five times larger than the signals from previously reported fluorescent protein voltage sensors. We show that the combination of signal size and response speed of these new probes allows the reliable detection of single action potentials and excitatory potentials in individual neurons and dendrites.}
+      \field{issn}{0896-6273}
+      \field{journaltitle}{Neuron}
+      \field{month}{9}
+      \field{number}{5}
+      \field{title}{{Single Action Potentials and Subthreshold Electrical Events Imaged in Neurons with a Fluorescent Protein Voltage Probe}}
+      \field{volume}{75}
+      \field{year}{2012}
+      \field{pages}{779\bibrangedash 785}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/J.NEURON.2012.06.040
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Jin et al. - 2012 - Single Action Potentials and Subthreshold Electrical Events Imaged in Neurons with a Fluorescent Protein Voltage (5).pdf:pdf
+      \endverb
+    \endentry
+    \entry{Chen2013}{article}{}
+      \name{author}{13}{}{%
+        {{uniquename=0,uniquepart=base,hash=06f93e8474feec9dd6a801302817003d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tsai-Wen},
+           giveni={T\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=67a6010bd13cdab8b3747932befeabfa}{%
+           family={Wardill},
+           familyi={W\bibinitperiod},
+           given={Trevor\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4ecf6f19fcc21ef32abbea3a7f2a885c}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fa0918260ef34c6db4384bc024ff7501}{%
+           family={Pulver},
+           familyi={P\bibinitperiod},
+           given={Stefan\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cab155db8bad4b412047a7bc8ea464f5}{%
+           family={Renninger},
+           familyi={R\bibinitperiod},
+           given={Sabine\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1c1e4f8288e51cf435bc258e30acdb61}{%
+           family={Baohan},
+           familyi={B\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce1966eea72702df0b7043705d3b8594}{%
+           family={Schreiter},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=47f520a3de096c158e069e91c44b17c2}{%
+           family={Kerr},
+           familyi={K\bibinitperiod},
+           given={Rex\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e3102ce6112ea1f1e8ff22bc92234af3}{%
+           family={Orger},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3ef65fa6bd69cf17ae117dad07c03ce5}{%
+           family={Jayaraman},
+           familyi={J\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b6d93fd682e4547cb6cae2be983f76ac}{%
+           family={Looger},
+           familyi={L\bibinitperiod},
+           given={Loren\bibnamedelima L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2cbb31e2d44cbba758618ce79c34b22}{%
+           family={Svoboda},
+           familyi={S\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dbb5b3e5ac20bf60b282a460f92513ac}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Douglas\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{fullhash}{574237ea07f549453f4ca6aeec009f7c}
+      \strng{bibnamehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{authorbibnamehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{authornamehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{authorfullhash}{574237ea07f549453f4ca6aeec009f7c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fluorescent calcium sensors are widely used to image neural activity. Using structure-based mutagenesis and neuron-based screening, we developed a family of ultrasensitive protein calcium sensors (GCaMP6) that outperformed other sensors in cultured neurons and in zebrafish, flies and mice in vivo. In layer 2/3 pyramidal neurons of the mouse visual cortex, GCaMP6 reliably detected single action potentials in neuronal somata and orientation-tuned synaptic calcium transients in individual dendritic spines. The orientation tuning of structurally persistent spines was largely stable over timescales of weeks. Orientation tuning averaged across spine populations predicted the tuning of their parent cell. Although the somata of GABAergic neurons showed little orientation tuning, their dendrites included highly tuned dendritic segments (5–40-µm long). GCaMP6 sensors thus provide new windows into the organization and dynamics of neural circuits over multiple spatial and temporal scales. Sensitive protein sensors of calcium have been created; these new tools are shown to report neural activity in cultured neurons, flies and zebrafish and can detect single action potentials and synaptic activation in the mouse visual cortex in vivo. Genetically encoded calcium sensors have brought neuronal recording to the tiny brains of invertebrates, but the methodology has lagged behind classical electrophysiology in vertebrates. Now Douglas Kim and colleagues have used selective mutagenesis to engineer a new ultrasensitive probe, GCaMP6, demonstrating improved spatial and temporal resolution in vivo, from flies to zebrafish. In addition, in mouse visual cortex GCaMP6 can reliably detect single action potentials and single-spine orientation tuning. GCaMP6 sensors can be used to image large groups of neurons as well as tiny synaptic compartments over multiple imaging sessions separated by months, offering a flexible new tool for brain research and calcium signalling studies.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature 2013 499:7458}
+      \field{month}{7}
+      \field{number}{7458}
+      \field{title}{{Ultrasensitive fluorescent proteins for imaging neuronal activity}}
+      \field{volume}{499}
+      \field{year}{2013}
+      \field{pages}{295\bibrangedash 300}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature12354
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Chen et al. - 2013 - Ultrasensitive fluorescent proteins for imaging neuronal activity.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nature12354
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nature12354
+      \endverb
+      \keyw{Fluorescent proteins}
+    \endentry
+    \entry{Maisak2013}{article}{}
+      \name{author}{14}{}{%
+        {{uniquename=0,uniquepart=base,hash=c1474e206b3ac92ac677e79444bd8649}{%
+           family={Maisak},
+           familyi={M\bibinitperiod},
+           given={Matthew\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2b75762e744f92c8ecacf697db327212}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=502caf3f132f36185e197df481e46a05}{%
+           family={Ammer},
+           familyi={A\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6aa3187004b990c4a35f51960e8a5e3}{%
+           family={Serbe},
+           familyi={S\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6059f6936de134c1a1cb7421fbe2b506}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=32a43f32d99d6cb89ea0f93735622f3f}{%
+           family={Leonhardt},
+           familyi={L\bibinitperiod},
+           given={Aljoscha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5ce5cccb92640a510e80ed182caeb977}{%
+           family={Schilling},
+           familyi={S\bibinitperiod},
+           given={Tabea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=600fb8ff33c42d75ef6e67abe8c922f8}{%
+           family={Bahl},
+           familyi={B\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3feb1eb14616c5f3fd9d212ac3b0813b}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Gerald\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7772d5a96106e899b911e149c601dc4f}{%
+           family={Nern},
+           familyi={N\bibinitperiod},
+           given={Aljoscha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a816783d03f07f4fea3d4cf2e87395ba}{%
+           family={Dickson},
+           familyi={D\bibinitperiod},
+           given={Barry\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b3af7fd69f91a4c41ef6edbc83c42b2}{%
+           family={Reiff},
+           familyi={R\bibinitperiod},
+           given={Dierk\bibnamedelima F.},
+           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=05c64c714973a48a2b12a54e48b3cf7d}{%
+           family={Hopp},
+           familyi={H\bibinitperiod},
+           given={Elisabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature}%
+      }
+      \strng{namehash}{26148b8073f2e7633a334908e3cdc02b}
+      \strng{fullhash}{76f1f2eee1311044a334ef14dcd6bab3}
+      \strng{bibnamehash}{26148b8073f2e7633a334908e3cdc02b}
+      \strng{authorbibnamehash}{26148b8073f2e7633a334908e3cdc02b}
+      \strng{authornamehash}{26148b8073f2e7633a334908e3cdc02b}
+      \strng{authorfullhash}{76f1f2eee1311044a334ef14dcd6bab3}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The extraction of directional motion information from changing retinal images is one of the earliest and most important processing steps in any visual system. In the fly optic lobe, two parallel processing streams have been anatomically described, leading from two first-order interneurons, L1 and L2, via T4 and T5 cells onto large, wide-field motion-sensitive interneurons of the lobula plate. Therefore, T4 and T5 cells are thought to have a pivotal role in motion processing; however, owing to their small size, it is difficult to obtain electrical recordings of T4 and T5 cells, leaving their visual response properties largely unknown. We circumvent this problem by means of optical recording from these cells in Drosophila, using the genetically encoded calcium indicator GCaMP5 (ref. 2). Here we find that specific subpopulations of T4 and T5 cells are directionally tuned to one of the four cardinal directions; that is, front-to-back, back-to-front, upwards and downwards. Depending on their preferred direction, T4 and T5 cells terminate in specific sublayers of the lobula plate. T4 and T5 functionally segregate with respect to contrast polarity: whereas T4 cells selectively respond to moving brightness increments (ON edges), T5 cells only respond to moving brightness decrements (OFF edges). When the output from T4 or T5 cells is blocked, the responses of postsynaptic lobula plate neurons to moving ON (T4 block) or OFF edges (T5 block) are selectively compromised. The same effects are seen in turning responses of tethered walking flies. Thus, starting with L1 and L2, the visual input is split into separate ON and OFF pathways, and motion along all four cardinal directions is computed separately within each pathway. The output of these eight different motion detectors is then sorted such that ON (T4) and OFF (T5) motion detectors with the same directional tuning converge in the same layer of the lobula plate, jointly providing the input to downstream circuits and motion-driven behaviours. {©} 2013 Macmillan Publishers Limited. All rights reserved.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{number}{7461}
+      \field{title}{{A directional tuning map of Drosophila elementary motion detectors}}
+      \field{volume}{500}
+      \field{year}{2013}
+      \field{pages}{212\bibrangedash 216}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/NATURE12320
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Maisak et al. - 2013 - A directional tuning map of Drosophila elementary motion detectors.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/23925246/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/23925246/
+      \endverb
+      \keyw{Alexander Borst,Animal / physiology,Animals,Behavior,Drosophila / cytology,Drosophila / physiology*,Interneurons / physiology,Juergen Haag,Locomotion / physiology,MEDLINE,Matthew S Maisak,Motion Perception / physiology*,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Neurons / physiology,Non-U.S. Gov't,PubMed Abstract,Research Support,Signal Transduction,Visual Pathways / cytology,Visual Pathways / physiology*,doi:10.1038/nature12320,pmid:23925246}
+    \endentry
+    \entry{Mazurek2014}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=eda5db9b8221639c02895b031b6af9bf}{%
+           family={Mazurek},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7982f229e5fbc1daa25ab1ec5b870a71}{%
+           family={Kager},
+           familyi={K\bibinitperiod},
+           given={Marisa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=28530edffa46d38ef67444e53af6906c}{%
+           family={{Van Hooser}},
+           familyi={V\bibinitperiod},
+           given={Stephen\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Research Foundation}%
+      }
+      \strng{namehash}{ee56c13443b981f291e94b0b4c7775c3}
+      \strng{fullhash}{1ca5b0b9d32e051feaea7ac65ff023a8}
+      \strng{bibnamehash}{1ca5b0b9d32e051feaea7ac65ff023a8}
+      \strng{authorbibnamehash}{1ca5b0b9d32e051feaea7ac65ff023a8}
+      \strng{authornamehash}{ee56c13443b981f291e94b0b4c7775c3}
+      \strng{authorfullhash}{1ca5b0b9d32e051feaea7ac65ff023a8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neurons in the visual cortex of all examined mammals exhibit orientation or direction tuning. New imaging techniques are allowing the circuit mechanisms underlying orientation and direction selectivity to be studied with clarity that was not possible a decade ago. However, these new techniques bring new challenges: robust quantitative measurements are needed to evaluate the findings from these studies, which can involve thousands of cells of varying response strength. Here we show that traditional measures of selectivity such as the orientation index (OI) and direction index (DI) are poorly suited for quantitative evaluation of orientation and direction tuning. We explore several alternative methods for quantifying tuning and for addressing a variety of questions that arise in studies on orientation- and direction-tuned cells and cell populations. We provide recommendations for which methods are best suited to which applications and we offer tips for avoiding potential pitfalls in applying these methods. Our goal is to supply a solid quantitative foundation for studies involving orientation and direction tuning. {©} 2014 Mazurek, Kager and Van Hooser.}
+      \field{issn}{16625110}
+      \field{journaltitle}{Frontiers in Neural Circuits}
+      \field{month}{8}
+      \field{number}{AUG}
+      \field{title}{{Robust quantification of orientation selectivity and direction selectivity}}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{pages}{92}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/FNCIR.2014.00092/BIBTEX
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Mazurek, Kager, Van Hooser - 2014 - Robust quantification of orientation selectivity and direction selectivity.pdf:pdf
+      \endverb
+      \keyw{Monte Carlo,Neural data analysis,Sampling}
+    \endentry
+    \entry{Fisher2015}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=95300b88e0f7ca5a2cc6e74fce7ddffb}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Yvette\bibnamedelima E.},
+           giveni={Y\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ddd9dae990952185e8e53cdcb959fb7a}{%
+           family={Silies},
+           familyi={S\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e2589488a3be71af0be131142b8e8b2c}{%
+           family={Clandinin},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3565417690e9937c18484b0a17b9b15}
+      \strng{fullhash}{0d2d7d75143cc093ea0687b59313caed}
+      \strng{bibnamehash}{0d2d7d75143cc093ea0687b59313caed}
+      \strng{authorbibnamehash}{0d2d7d75143cc093ea0687b59313caed}
+      \strng{authornamehash}{f3565417690e9937c18484b0a17b9b15}
+      \strng{authorfullhash}{0d2d7d75143cc093ea0687b59313caed}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{08966273}
+      \field{journaltitle}{Neuron}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{{Orientation Selectivity Sharpens Motion Detection in Drosophila}}
+      \field{volume}{88}
+      \field{year}{2015}
+      \field{pages}{390\bibrangedash 402}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.neuron.2015.09.033
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0896627315008223
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0896627315008223
+      \endverb
+    \endentry
+    \entry{Haag2016}{article}{}
+      \name{author}{5}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=2b75762e744f92c8ecacf697db327212}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5d35a254329ad4824ee1efa1f2fcd377}{%
+           family={Arenz},
+           familyi={A\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6aa3187004b990c4a35f51960e8a5e3}{%
+           family={Serbe},
+           familyi={S\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a050fd585c98176929a796a83b467be7}{%
+           family={Gabbiani},
+           familyi={G\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8698a76304f41c499a99403c6ad6aaa4}
+      \strng{fullhash}{2524d112225e3857858fe4effa9b41c6}
+      \strng{bibnamehash}{2524d112225e3857858fe4effa9b41c6}
+      \strng{authorbibnamehash}{2524d112225e3857858fe4effa9b41c6}
+      \strng{authornamehash}{8698a76304f41c499a99403c6ad6aaa4}
+      \strng{authorfullhash}{2524d112225e3857858fe4effa9b41c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>How neurons become sensitive to the direction of visual motion represents a classic example of neural computation. Two alternative mechanisms have been discussed in the literature so far: preferred direction enhancement, by which responses are amplified when stimuli move along the preferred direction of the cell, and null direction suppression, where one signal inhibits the response to the subsequent one when stimuli move along the opposite, i.e. null direction. Along the processing chain in the Drosophila optic lobe, directional responses first appear in T4 and T5 cells. Visually stimulating sequences of individual columns in the optic lobe with a telescope while recording from single T4 neurons, we find both mechanisms at work implemented in different sub-regions of the receptive field. This finding explains the high degree of directional selectivity found already in the fly's primary motion-sensing neurons and marks an important step in our understanding of elementary motion detection.</p>}
+      \field{issn}{2050-084X}
+      \field{journaltitle}{eLife}
+      \field{month}{8}
+      \field{title}{{Complementary mechanisms create direction selectivity in the fly}}
+      \field{volume}{5}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.7554/eLife.17421
+      \endverb
+      \verb{urlraw}
+      \verb https://elifesciences.org/articles/17421
+      \endverb
+      \verb{url}
+      \verb https://elifesciences.org/articles/17421
+      \endverb
+    \endentry
+    \entry{Salazar-Gatzimas2016}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=236a90b2b4227984fe9404bf6dd372cf}{%
+           family={Salazar-Gatzimas},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=813612c7ecf68bf80da14bc4a8f95fa9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Juyue},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=92884d4a0a5a7c9a0a59615026e9e1c0}{%
+           family={Creamer},
+           familyi={C\bibinitperiod},
+           given={Matthew\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6f3766608fb8ebff10a0919d7d8d736}{%
+           family={Mano},
+           familyi={M\bibinitperiod},
+           given={Omer},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cd241edb19e9743f1c42c8043df721e0}{%
+           family={Mandel},
+           familyi={M\bibinitperiod},
+           given={Holly\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=48b8653f05c36d587d2baa140a8f8ae6}{%
+           family={Matulis},
+           familyi={M\bibinitperiod},
+           given={Catherine\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b1d76b9cecf6b74d782fee63d629f8b3}{%
+           family={Pottackal},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9dcb241f65dd9cc3699b2fcfe56f0bbd}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Damon\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c1fa7aa1d98dc7a047a6a6cd7993061}
+      \strng{fullhash}{bc687a381323ccb12b7c1d9d6227dbc7}
+      \strng{bibnamehash}{1c1fa7aa1d98dc7a047a6a6cd7993061}
+      \strng{authorbibnamehash}{1c1fa7aa1d98dc7a047a6a6cd7993061}
+      \strng{authornamehash}{1c1fa7aa1d98dc7a047a6a6cd7993061}
+      \strng{authorfullhash}{bc687a381323ccb12b7c1d9d6227dbc7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Animals estimate visual motion by integrating light intensity information over time and space. The integration requires nonlinear processing, which makes motion estimation circuitry sensitive to specific spatiotemporal correlations that signify visual motion. Classical models of motion estimation weight these correlations to produce direction-selective signals. However, the correlational algorithms they describe have not been directly measured in elementary motion-detecting neurons (EMDs). Here, we employed stimuli to directly measure responses to pairwise correlations in Drosophila's EMD neurons, T4 and T5. Activity in these neurons was required for behavioral responses to pairwise correlations and was predictive of those responses. The pattern of neural responses in the EMDs was inconsistent with one classical model of motion detection, and the timescale and selectivity of correlation responses constrained the temporal filtering properties in potential models. These results reveal how neural responses to pairwise correlations drive visual behavior in this canonical motion-detecting circuit.}
+      \field{issn}{08966273}
+      \field{journaltitle}{Neuron}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{{Direct Measurement of Correlation Responses in Drosophila Elementary Motion Detectors Reveals Fast Timescale Tuning}}
+      \field{volume}{92}
+      \field{year}{2016}
+      \field{pages}{227\bibrangedash 239}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.neuron.2016.09.017
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/27710784 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5097865 https://linkinghub.elsevier.com/retrieve/pii/S0896627316305761
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/27710784%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5097865%20https://linkinghub.elsevier.com/retrieve/pii/S0896627316305761
+      \endverb
+    \endentry
+    \entry{Arenz2017}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=5d35a254329ad4824ee1efa1f2fcd377}{%
+           family={Arenz},
+           familyi={A\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e4c6cf0339ba23cf1c9c03b5ce27f340}{%
+           family={Drews},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=48a67110d8e8196ad50c3f75e2e51595}{%
+           family={Richter},
+           familyi={R\bibinitperiod},
+           given={Florian\bibnamedelima G.},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=502caf3f132f36185e197df481e46a05}{%
+           family={Ammer},
+           familyi={A\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Curr Biol}%
+      }
+      \strng{namehash}{fabc38c72340c720329783bce2076c70}
+      \strng{fullhash}{da02d44e571c5434fc207a994f8245d5}
+      \strng{bibnamehash}{da02d44e571c5434fc207a994f8245d5}
+      \strng{authorbibnamehash}{da02d44e571c5434fc207a994f8245d5}
+      \strng{authornamehash}{fabc38c72340c720329783bce2076c70}
+      \strng{authorfullhash}{da02d44e571c5434fc207a994f8245d5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Detecting the direction of motion contained in the visual scene is crucial for many behaviors. However, because single photoreceptors only signal local luminance changes, motion detection requires a comparison of signals from neighboring photoreceptors across time in downstream neuronal circuits. For signals to coincide on readout neurons that thus become motion and direction selective, different input lines need to be delayed with respect to each other. Classical models of motion detection rely on non-linear interactions between two inputs after different temporal filtering. However, recent studies have suggested the requirement for at least three, not only two, input signals. Here, we comprehensively characterize the spatiotemporal response properties of all columnar input elements to the elementary motion detectors in the fruit fly, T4 and T5 cells, via two-photon calcium imaging. Between these input neurons, we find large differences in temporal dynamics. Based on this, computer simulations show that only a small subset of possible arrangements of these input elements maps onto a recently proposed algorithmic three-input model in a way that generates a highly direction-selective motion detector, suggesting plausible network architectures. Moreover, modulating the motion detection system by octopamine-receptor activation, we find the temporal tuning of T4 and T5 cells to be shifted toward higher frequencies, and this shift can be fully explained by the concomitant speeding of the input elements.}
+      \field{issn}{1879-0445}
+      \field{journaltitle}{Current biology : CB}
+      \field{month}{4}
+      \field{number}{7}
+      \field{title}{{The Temporal Tuning of the Drosophila Motion Detectors Is Determined by the Dynamics of Their Input Elements}}
+      \field{volume}{27}
+      \field{year}{2017}
+      \field{pages}{929\bibrangedash 944}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/J.CUB.2017.01.051
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Arenz et al. - 2017 - The Temporal Tuning of the Drosophila Motion Detectors Is Determined by the Dynamics of Their Input Elements(2).pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28343964/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28343964/
+      \endverb
+      \keyw{Alexander Arenz,Alexander Borst,Animals,Drosophila / physiology*,Invertebrate / physiology*,MEDLINE,Michael S Drews,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Ocular*,Photic Stimulation,Photoreceptor Cells,PubMed Abstract,Vision,Visual Pathways / physiology,doi:10.1016/j.cub.2017.01.051,pmid:28343964}
+    \endentry
+    \entry{Haag2017}{article}{}
+      \name{author}{3}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=638f2e6bb7851f13070104746ccabcaa}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f59dd3f9568103c8a2ce25bf9b09ae16}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e5dacb5d5d7fb8e4310c4f02cdfbb1ae}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9aff8f3b8abbca128df92469db387ba}
+      \strng{fullhash}{d11c5ed566cd0ded2cc0d439714fe575}
+      \strng{bibnamehash}{d11c5ed566cd0ded2cc0d439714fe575}
+      \strng{authorbibnamehash}{d11c5ed566cd0ded2cc0d439714fe575}
+      \strng{authornamehash}{d9aff8f3b8abbca128df92469db387ba}
+      \strng{authorfullhash}{d11c5ed566cd0ded2cc0d439714fe575}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{©} Haag et al. In the fruit fly optic lobe, T4 and T5 cells represent the first direction-selective neurons, with T4 cells responding selectively to moving brightness increments (ON) and T5 cells to brightness decrements (OFF). Both T4 and T5 cells comprise four subtypes with directional tuning to one of the four cardinal directions. We had previously found that upward-sensitive T4 cells implement both preferred direction enhancement and null direction suppression (Haag et al., 2016). Here, we asked whether this mechanism generalizes to OFF-selective T5 cells and to all four subtypes of both cell classes. We found that all four subtypes of both T4 and T5 cells implement both mechanisms, that is preferred direction enhancement and null direction inhibition, on opposing sides of their receptive fields. This gives rise to the high degree of direction selectivity observed in both T4 and T5 cells within each subpopulation.}
+      \field{issn}{2050084X}
+      \field{journaltitle}{eLife}
+      \field{title}{{A common directional tuning mechanism of Drosophila motion-sensing neurons in the ON and in the OFF pathway}}
+      \field{volume}{6}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.7554/eLife.29044
+      \endverb
+    \endentry
+    \entry{Gruntman2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=dd9f77ba341179ddc4b96fd5b3736546}{%
+           family={Gruntman},
+           familyi={G\bibinitperiod},
+           given={Eyal},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0a3d7cd05914859062f36d0686191850}{%
+           family={Romani},
+           familyi={R\bibinitperiod},
+           given={Sandro},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=69fa1a40b042438d00c54ba91835cc09}{%
+           family={Reiser},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{128dae9dbf5fc0d9f5f230d4f37cde7a}
+      \strng{fullhash}{b73827f834192a1eb3acbc2bdb0b6e0d}
+      \strng{bibnamehash}{b73827f834192a1eb3acbc2bdb0b6e0d}
+      \strng{authorbibnamehash}{b73827f834192a1eb3acbc2bdb0b6e0d}
+      \strng{authornamehash}{128dae9dbf5fc0d9f5f230d4f37cde7a}
+      \strng{authorfullhash}{b73827f834192a1eb3acbc2bdb0b6e0d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A neuron that extracts directionally selective motion information from upstream signals lacking this selectivity must compare visual responses from spatially offset inputs. Distinguishing among prevailing algorithmic models for this computation requires measuring fast neuronal activity and inhibition. In the Drosophila melanogaster visual system, a fourth-order neuron-T4-is the first cell type in the ON pathway to exhibit directionally selective signals. Here we use in vivo whole-cell recordings of T4 to show that directional selectivity originates from simple integration of spatially offset fast excitatory and slow inhibitory inputs, resulting in a suppression of responses to the nonpreferred motion direction. We constructed a passive, conductance-based model of a T4 cell that accurately predicts the neuron's response to moving stimuli. These results connect the known circuit anatomy of the motion pathway to the algorithmic mechanism by which the direction of motion is computed.}
+      \field{issn}{1097-6256}
+      \field{journaltitle}{Nature Neuroscience}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{Simple integration of fast excitation and offset, delayed inhibition computes directional selectivity in Drosophila}}
+      \field{volume}{21}
+      \field{year}{2018}
+      \field{pages}{250\bibrangedash 257}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1038/s41593-017-0046-4
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/29311742 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5967973 http://www.nature.com/articles/s41593-017-0046-4
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/29311742%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5967973%20http://www.nature.com/articles/s41593-017-0046-4
+      \endverb
+    \endentry
+    \entry{Borst2020}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cae0d0b0589a290c54811d1412e58a3f}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=16ef0f27c5bb73ecf3ebd86cecd0aca2}{%
+           family={Mauss},
+           familyi={M\bibinitperiod},
+           given={Alex\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3bfb8caa345c7088820635e0b7b75826}
+      \strng{fullhash}{a7013051a3bfe5a05de479953f061615}
+      \strng{bibnamehash}{a7013051a3bfe5a05de479953f061615}
+      \strng{authorbibnamehash}{a7013051a3bfe5a05de479953f061615}
+      \strng{authornamehash}{3bfb8caa345c7088820635e0b7b75826}
+      \strng{authorfullhash}{a7013051a3bfe5a05de479953f061615}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Detecting the direction of image motion is a fundamental component of visual computation, essential for survival of the animal. However, at the level of individual photoreceptors, the direction in which the image is shifting is not explicitly represented. Rather, directional motion information needs to be extracted from the photoreceptor array by comparing the signals of neighboring units over time. The exact nature of this process as implemented in the visual system of the fruit fly Drosophila melanogaster has been studied in great detail, and much progress has recently been made in determining the neural circuits giving rise to directional motion information. The results reveal the following: (1) motion information is computed in parallel ON and OFF pathways. (2) Within each pathway, T4 (ON) and T5 (OFF) cells are the first neurons to represent the direction of motion. Four subtypes of T4 and T5 cells exist, each sensitive to one of the four cardinal directions. (3) The core process of direction selectivity as implemented on the dendrites of T4 and T5 cells comprises both an enhancement of signals for motion along their preferred direction as well as a suppression of signals for motion along the opposite direction. This combined strategy ensures a high degree of direction selectivity right at the first stage where the direction of motion is computed. (4) At the subsequent processing stage, tangential cells spatially integrate direct excitation from ON and OFF-selective T4 and T5 cells and indirect inhibition from bi-stratified LPi cells activated by neighboring T4/T5 terminals, thus generating flow-field-selective responses.}
+      \field{issn}{14321351}
+      \field{journaltitle}{Journal of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{{How fly neurons compute the direction of visual motion}}
+      \field{volume}{206}
+      \field{year}{2020}
+      \field{pages}{109\bibrangedash 124}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/S00359-019-01375-9/FIGURES/6
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Borst, Haag, Mauss - 2020 - How fly neurons compute the direction of visual motion.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s00359-019-01375-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s00359-019-01375-9
+      \endverb
+      \keyw{Direction selectivity,Drosophila,Null direction suppression,Optic lobe,Preferred direction enhancement,Visual motion}
+    \endentry
+    \entry{Zhang2020}{article}{}
+      \name{author}{22}{}{%
+        {{uniquename=0,uniquepart=base,hash=28f91f3a4b62ce57b7a533e742e8aae1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f920790729a11270c864c9fd92ddd712}{%
+           family={R{ó}zsa},
+           familyi={R\bibinitperiod},
+           given={M{á}rton},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=29f3a87a8b9107c8f66aa03bdcc582cd}{%
+           family={Bushey},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=13eeaf7733e1c872a9f453aad7afe847}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jihong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52eedc65bf844f57b7fdfca15ce5ab70}{%
+           family={Reep},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fad0e9f85e6eab667a7d97e8ed9da604}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yajie},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7e0973f29b534950e0cf65ee381a5aea}{%
+           family={Broussard},
+           familyi={B\bibinitperiod},
+           given={Gerard\bibnamedelima Joey},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=470dcab9c14bacd5a4fd4818a030a236}{%
+           family={Tsang},
+           familyi={T\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5489a09e1b0f569b98f1e2ef2182695c}{%
+           family={Tsegaye},
+           familyi={T\bibinitperiod},
+           given={Getahun},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1b1079c340cde01a5f1c826f0002b0fd}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Ronak},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cb78035dbe8996bccca931668b88f43e}{%
+           family={Narayan},
+           familyi={N\bibinitperiod},
+           given={Sujatha},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=da008a16a458d0febe4878ff3334dae8}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Jing-Xuan},
+           giveni={J\bibinithyphendelim X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e9e6733e2977caab1207bfc3121258cb}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rongwei},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a4a82c86f517a6e3090076da43c6b285}{%
+           family={Ahrens},
+           familyi={A\bibinitperiod},
+           given={Misha\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e6579fd848ff9b83f910965aa4f9ecea}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Glenn\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2f1fc3d305c53898ed61f4d8517dfe7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Samuel\bibnamedelima S.-H.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b2cbb31e2d44cbba758618ce79c34b22}{%
+           family={Svoboda},
+           familyi={S\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b64d993b77c1b5b2d74c3f0989e69cc0}{%
+           family={Korff},
+           familyi={K\bibinitperiod},
+           given={Wyatt},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bf8a260a92d0d759352cbbb0694feaf6}{%
+           family={Schreiter},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3ffdfb0534601e0f09ea40610680d93e}{%
+           family={Hasseman},
+           familyi={H\bibinitperiod},
+           given={Jeremy\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f8a64d0919353e697b7b33638575326e}{%
+           family={Kolb},
+           familyi={K\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6be780f9eb9e947e3441eca9b6f67498}{%
+           family={Looger},
+           familyi={L\bibinitperiod},
+           given={Loren\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {figshare}%
+      }
+      \strng{namehash}{37b129e5ba18129997157b8fc224c8d9}
+      \strng{fullhash}{29a11245f9288bcde98a6a98021cbb1d}
+      \strng{bibnamehash}{37b129e5ba18129997157b8fc224c8d9}
+      \strng{authorbibnamehash}{37b129e5ba18129997157b8fc224c8d9}
+      \strng{authornamehash}{37b129e5ba18129997157b8fc224c8d9}
+      \strng{authorfullhash}{29a11245f9288bcde98a6a98021cbb1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Looger Lab and the GENIE Project Team at HHMI Janelia have developed a new suite of jGCaMP8 Calcium indicators, built upon the successful GCaMP6 and jGCaMP7 scaffolds. The new jGCaMP8 sensors have fast kinetics and high sensitivity, suitable for in vivo imaging.UPDATE (12/18/20)The Genie Project team will be making AAVs available on a first come first served basis. We anticipate the first variants being ready in January for distribution. If you are interested in obtaining AAV aliquots, please fill out this form. Addgene will be handling long-term distribution of our full catalog of AAV constructs with several serotypes available in late spring 2021. External links:Order jGCaMP8 plasmids on Addgene Visit our website for more information Contact us}
+      \field{journaltitle}{figshare}
+      \field{title}{{jGCaMP8 Fast Genetically Encoded Calcium Indicators}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.25378/JANELIA.13148243.V4
+      \endverb
+      \verb{urlraw}
+      \verb https://janelia.figshare.com/articles/online_resource/jGCaMP8_Fast_Genetically_Encoded_Calcium_Indicators/13148243 https://janelia.figshare.com/ndownloader/files/25776017
+      \endverb
+      \verb{url}
+      \verb https://janelia.figshare.com/articles/online_resource/jGCaMP8_Fast_Genetically_Encoded_Calcium_Indicators/13148243%20https://janelia.figshare.com/ndownloader/files/25776017
+      \endverb
+      \keyw{Calcium,GCaMP,GECI,fluorescence,imaging,jGCaMP8,sensor}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

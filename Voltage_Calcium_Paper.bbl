@@ -337,6 +337,78 @@
       \endverb
       \keyw{Biomedical Engineering}
     \endentry
+    \entry{Murata2005}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=5eae96bf8a4c12aad044ef3208e416cf}{%
+           family={Murata},
+           familyi={M\bibinitperiod},
+           given={Yoshimichi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=109b3d5a851d000bd1bc6cde2c74d125}{%
+           family={Iwasaki},
+           familyi={I\bibinitperiod},
+           given={Hirohide},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7cd435e8f111693ab94835f279b0090}{%
+           family={Sasaki},
+           familyi={S\bibinitperiod},
+           given={Mari},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8e6934590621f83b5587628bbd26cd38}{%
+           family={Inaba},
+           familyi={I\bibinitperiod},
+           given={Kazuo},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d2d47b28f82397bfa2c6c1c9d09db8ea}{%
+           family={Okamura},
+           familyi={O\bibinitperiod},
+           given={Yasushi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature}%
+      }
+      \strng{namehash}{41edbc65cc0559d1b5116fd7ba5eb020}
+      \strng{fullhash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \strng{bibnamehash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \strng{authorbibnamehash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \strng{authornamehash}{41edbc65cc0559d1b5116fd7ba5eb020}
+      \strng{authorfullhash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Changes in membrane potential affect ion channels and transporters, which then alter intracellular chemical conditions. Other signalling pathways coupled to membrane potential have been suggested but their underlying mechanisms are unknown. Here we describe a novel protein from the ascidian Ciona intestinalis that has a transmembrane voltage-sensing domain homologous to the S1-S4 segments of voltage-gated channels and a cytoplasmic domain similar to phosphatase and tensin homologue. This protein, named C. intestinalis voltage-sensor-containing phosphatase (Ci-VSP), displays channel-like 'gating' currents and directly translates changes in membrane potential into the turnover of phosphoinositides. The activity of the phosphoinositide phosphatase in Ci-VSP is tuned within a physiological range of membrane potential. Immunocytochemical studies show that Ci-VSP is expressed in Ciona sperm tail membranes, indicating a possible role in sperm function or morphology. Our data demonstrate that voltage sensing can function beyond channel proteins and thus more ubiquitously than previously realized.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{6}
+      \field{number}{7046}
+      \field{title}{{Phosphoinositide phosphatase activity coupled to an intrinsic voltage sensor}}
+      \field{volume}{435}
+      \field{year}{2005}
+      \field{pages}{1239\bibrangedash 1243}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/NATURE03650
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Murata et al. - 2005 - Phosphoinositide phosphatase activity coupled to an intrinsic voltage sensor.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/15902207/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/15902207/
+      \endverb
+      \keyw{Amino Acid Sequence,Animals,Ciona intestinalis / enzymology*,Ciona intestinalis / genetics,Electrophysiology,Hirohide Iwasaki,Immunohistochemistry,MEDLINE,Male,Membrane Potentials / physiology*,Molecular Sequence Data,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Non-U.S. Gov't,Oocytes / metabolism,Phosphatidylinositols / metabolism*,Phosphoric Monoester Hydrolases / chemistry,Phosphoric Monoester Hydrolases / genetics,Phosphoric Monoester Hydrolases / metabolism*,Potassium Channels / metabolism,Protein Structure,PubMed Abstract,Research Support,Sperm Tail / enzymology,Tertiary,Xenopus,Yasushi Okamura,Yoshimichi Murata,doi:10.1038/nature03650,pmid:15902207}
+    \endentry
     \entry{DiMaio2008}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=8e737552677f931e3a955fa80b8e6768}{%
@@ -647,6 +719,77 @@
       \endverb
       \verb{file}
       \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Jin et al. - 2012 - Single Action Potentials and Subthreshold Electrical Events Imaged in Neurons with a Fluorescent Protein Voltage (5).pdf:pdf
+      \endverb
+    \endentry
+    \entry{Cao2013}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=c7e38c7d56a44b229f19f8860b752353}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Guan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb837044c08946b49a02a3ddaacd5f9c}{%
+           family={Platisa},
+           familyi={P\bibinitperiod},
+           given={Jelena},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0b1cfe8702a3e85589be809d8a90c4bd}{%
+           family={Pieribone},
+           familyi={P\bibinitperiod},
+           given={Vincent\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9ba49d1cdb5dc62ed66665254b128879}{%
+           family={Raccuglia},
+           familyi={R\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce913b84bf8466520d6b975c4dd1182e}{%
+           family={Kunst},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7525ad20337a55cfb0319d6a46a88a2a}{%
+           family={Nitabach},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima N.},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cell Press}%
+      }
+      \strng{namehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{fullhash}{ced262fbfdffe928bb675433d5e19d27}
+      \strng{bibnamehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{authorbibnamehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{authornamehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{authorfullhash}{ced262fbfdffe928bb675433d5e19d27}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nervous systems process information by integrating the electrical activity of neurons in complex networks. This motivates the long-standing interest in using optical methods to simultaneously monitor the membrane potential of multiple genetically targeted neurons via expression of genetically encoded fluorescent voltage indicators (GEVIs) in intact neural circuits. No currently available GEVIs have demonstrated robust signals in intact brain tissue that enable reliable recording of individual electrical events simultaneously in multiple neurons. Here, we show that the recently developed "ArcLight" GEVI robustly reports both subthreshold events and action potentials in genetically targeted neurons in the intact Drosophila fruit fly brain and reveals electrical signals in neurite branches. In the same way that genetically encoded fluorescent sensors have revolutionized the study of intracellular Ca2 signals, ArcLight now enables optical measurement in intact neural circuits of membrane potential, the key cellular parameter that underlies neuronal information processing. {©} 2013 Elsevier Inc.}
+      \field{issn}{0092-8674}
+      \field{journaltitle}{Cell}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{{Genetically Targeted Optical Electrophysiology in Intact Neural Circuits}}
+      \field{volume}{154}
+      \field{year}{2013}
+      \field{pages}{904\bibrangedash 913}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/J.CELL.2013.07.027
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Cao et al. - 2013 - Genetically Targeted Optical Electrophysiology in Intact Neural Circuits.pdf:pdf
       \endverb
     \endentry
     \entry{Chen2013}{article}{}
@@ -1062,6 +1205,78 @@
       \verb https://elifesciences.org/articles/17421
       \endverb
     \endentry
+    \entry{Leong2016}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=d2c2eb125f882722504dd5389e442667}{%
+           family={Leong},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelimb Chit\bibnamedelima Sing},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=798ddd1619fd9dda440e94debe46f720}{%
+           family={Esch},
+           familyi={E\bibinitperiod},
+           given={Jennifer\bibnamedelima Judson},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e528fda20644135dfae4f481a342148f}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=05b3e391388084df874ede60f2210c12}{%
+           family={Ganguli},
+           familyi={G\bibinitperiod},
+           given={Surya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=82040c9471b3b39a4547387a47efb2e1}{%
+           family={Clandinin},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima Robert},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
+      }
+      \strng{namehash}{7d6f0b56cf2a09650a188b3775af13e8}
+      \strng{fullhash}{4814f10af6189f0a0321f26b7b017136}
+      \strng{bibnamehash}{4814f10af6189f0a0321f26b7b017136}
+      \strng{authorbibnamehash}{4814f10af6189f0a0321f26b7b017136}
+      \strng{authornamehash}{7d6f0b56cf2a09650a188b3775af13e8}
+      \strng{authorfullhash}{4814f10af6189f0a0321f26b7b017136}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Across animal phyla, motion vision relies on neurons that respond preferentially to stimuli moving in one, preferred direction over the opposite, null direction. In the elementary motion detector of Drosophila , direction selectivity emerges in two neuron types, T4 and T5, but the computational algorithm underlying this selectivity remains unknown. We find that the receptive fields of both T4 and T5 exhibit spatiotemporally offset light-preferring and dark-preferring subfields, each obliquely oriented in spacetime. In a linear-nonlinear modeling framework, the spatiotemporal organization of the T5 receptive field predicts the activity of T5 in response to motion stimuli. These findings demonstrate that direction selectivity emerges from the enhancement of responses to motion in the preferred direction, as well as the suppression of responses to motion in the null direction. Thus, remarkably, T5 incorporates the essential algorithmic strategies used by the Hassenstein–Reichardt correlator and the Barlow–Levick detector. Our model for T5 also provides an algorithmic explanation for the selectivity of T5 for moving dark edges: our model captures all two- and three-point spacetime correlations relevant to motion in this stimulus class. More broadly, our findings reveal the contribution of input pathway visual processing, specifically center-surround, temporally biphasic receptive fields, to the generation of direction selectivity in T5. As the spatiotemporal receptive field of T5 in Drosophila is common to the simple cell in vertebrate visual cortex, our stimulus-response model of T5 will inform efforts in an experimentally tractable context to identify more detailed, mechanistic models of a prevalent computation. SIGNIFICANCE STATEMENT Feature selective neurons respond preferentially to astonishingly specific stimuli, providing the neurobiological basis for perception. Direction selectivity serves as a paradigmatic model of feature selectivity that has been examined in many species. While insect elementary motion detectors have served as premiere experimental models of direction selectivity for 60 years, the central question of their underlying algorithm remains unanswered. Using in vivo two-photon imaging of intracellular calcium signals, we measure the receptive fields of the first direction-selective cells in the Drosophila visual system, and define the algorithm used to compute the direction of motion. Computational modeling of these receptive fields predicts responses to motion and reveals how this circuit efficiently captures many useful correlations intrinsic to moving dark edges.}
+      \field{issn}{0270-6474}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{month}{8}
+      \field{number}{31}
+      \field{title}{{Direction Selectivity in Drosophila Emerges from Preferred-Direction Enhancement and Null-Direction Suppression}}
+      \field{volume}{36}
+      \field{year}{2016}
+      \field{pages}{8078\bibrangedash 8092}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.1272-16.2016
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Leong et al. - 2016 - Direction Selectivity in Drosophila Emerges from Preferred-Direction Enhancement and Null-Direction Suppression.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jneurosci.org/content/36/31/8078 https://www.jneurosci.org/content/36/31/8078.abstract
+      \endverb
+      \verb{url}
+      \verb https://www.jneurosci.org/content/36/31/8078%20https://www.jneurosci.org/content/36/31/8078.abstract
+      \endverb
+      \keyw{Elementary motion detection,Hassenstein–Reichardt correlator,Two-photon calcium imaging in vivo}
+    \endentry
     \entry{Salazar-Gatzimas2016}{article}{}
       \name{author}{8}{}{%
         {{uniquename=0,uniquepart=base,hash=236a90b2b4227984fe9404bf6dd372cf}{%
@@ -1313,6 +1528,66 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/29311742%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5967973%20http://www.nature.com/articles/s41593-017-0046-4
       \endverb
     \endentry
+    \entry{Wienecke2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=584af0c71890a236e2b27fc63acad217}{%
+           family={Wienecke},
+           familyi={W\bibinitperiod},
+           given={Carl\bibnamedelima F.R.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d5becbbe247d562677780e8feaa0117f}{%
+           family={Leong},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima C.S.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e2589488a3be71af0be131142b8e8b2c}{%
+           family={Clandinin},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Neuron}%
+      }
+      \strng{namehash}{d5cdd8edaf8c8a3ca03ae8a378865406}
+      \strng{fullhash}{1e17f9df74439da69f9325924bc33208}
+      \strng{bibnamehash}{1e17f9df74439da69f9325924bc33208}
+      \strng{authorbibnamehash}{1e17f9df74439da69f9325924bc33208}
+      \strng{authornamehash}{d5cdd8edaf8c8a3ca03ae8a378865406}
+      \strng{authorfullhash}{1e17f9df74439da69f9325924bc33208}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While linear mechanisms lay the foundations of feature selectivity in many brain areas, direction selectivity in the elementary motion detector (EMD) of the fly has become a paradigm of nonlinear neuronal computation. We have bridged this divide by demonstrating that linear spatial summation can generate direction selectivity in the fruit fly Drosophila. Using linear systems analysis and two-photon imaging of a genetically encoded voltage indicator, we measure the emergence of direction-selective (DS) voltage signals in the Drosophila OFF pathway. Our study is a direct, quantitative investigation of the algorithm underlying directional signals, with the striking finding that linear spatial summation is sufficient for the emergence of direction selectivity. A linear stage of the fly EMD strongly resembles similar computations in vertebrate visual cortex, demands a reappraisal of the role of upstream nonlinearities, and implicates the voltage-to-calcium transformation in the refinement of feature selectivity in this system. Video Abstract: Direction-selective responses to visual motion in the OFF pathway of Drosophila emerge from simple linear input summation.}
+      \field{issn}{1097-4199}
+      \field{journaltitle}{Neuron}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{{Linear Summation Underlies Direction Selectivity in Drosophila}}
+      \field{volume}{99}
+      \field{year}{2018}
+      \field{pages}{680\bibrangedash 688.e4}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/J.NEURON.2018.07.005
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Wienecke, Leong, Clandinin - 2018 - Linear Summation Underlies Direction Selectivity in Drosophila.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/30057202/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/30057202/
+      \endverb
+      \keyw{Animals,Carl F R Wienecke,Drosophila,Extramural,Fluorescence,Jonathan C S Leong,Linear Models,MEDLINE,Microscopy,Motion Perception / physiology*,Multiphoton / methods,N.I.H.,NCBI,NIH,NLM,National Center for Biotechnology Information,National Institutes of Health,National Library of Medicine,Non-P.H.S.,Non-U.S. Gov't,PMC6107374,Photic Stimulation / methods*,PubMed Abstract,Research Support,Thomas R Clandinin,U.S. Gov't,Visual Cortex / chemistry,Visual Cortex / physiology*,Visual Pathways / chemistry,Visual Pathways / physiology*,doi:10.1016/j.neuron.2018.07.005,pmid:30057202}
+    \endentry
     \entry{Borst2020}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
@@ -1537,6 +1812,72 @@
       \verb https://janelia.figshare.com/articles/online_resource/jGCaMP8_Fast_Genetically_Encoded_Calcium_Indicators/13148243%20https://janelia.figshare.com/ndownloader/files/25776017
       \endverb
       \keyw{Calcium,GCaMP,GECI,fluorescence,imaging,jGCaMP8,sensor}
+    \endentry
+    \entry{Groschner2022}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=c0fb3a127d8b2e780b40e7bd26459d00}{%
+           family={Groschner},
+           familyi={G\bibinitperiod},
+           given={Lukas\bibnamedelima N.},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=19df8635844eaf232db74a767c1eb253}{%
+           family={Malis},
+           familyi={M\bibinitperiod},
+           given={Jonatan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=899fe7ed42d5d424bf28b4c7847150cf}{%
+           family={Zuidinga},
+           familyi={Z\bibinitperiod},
+           given={Birte},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{1ae07a0f81ffeb106ab1858ac1c7ae28}
+      \strng{fullhash}{3d419a2824a32e9260b25fde7c0c15df}
+      \strng{bibnamehash}{3d419a2824a32e9260b25fde7c0c15df}
+      \strng{authorbibnamehash}{3d419a2824a32e9260b25fde7c0c15df}
+      \strng{authornamehash}{1ae07a0f81ffeb106ab1858ac1c7ae28}
+      \strng{authorfullhash}{3d419a2824a32e9260b25fde7c0c15df}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nonlinear, multiplication-like operations carried out by individual nerve cells greatly enhance the computational power of a neural system1–3, but our understanding of their biophysical implementation is scant. Here we pursue this problem in the Drosophila melanogaster ON motion vision circuit4,5, in which we record the membrane potentials of direction-selective T4 neurons and of their columnar input elements6,7 in response to visual and pharmacological stimuli in vivo. Our electrophysiological measurements and conductance-based simulations provide evidence for a passive supralinear interaction between two distinct types of synapse on T4 dendrites. We show that this multiplication-like nonlinearity arises from the coincidence of cholinergic excitation and release from glutamatergic inhibition. The latter depends on the expression of the glutamate-gated chloride channel GluCl$\alpha$8,9 in T4 neurons, which sharpens the directional tuning of the cells and shapes the optomotor behaviour of the animals. Interacting pairs of shunting inhibitory and excitatory synapses have long been postulated as an analogue approximation of a multiplication, which is integral to theories of motion detection10,11, sound localization12 and sensorimotor control13. Release from shunting inhibition and coincident excitation implement a multiplication-like synaptic interaction in motion-sensing neurons of Drosophila melanogaster.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature 2022 603:7899}
+      \field{month}{2}
+      \field{number}{7899}
+      \field{title}{{A biophysical account of multiplication by a single neuron}}
+      \field{volume}{603}
+      \field{year}{2022}
+      \field{pages}{119\bibrangedash 123}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/s41586-022-04428-3
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Groschner et al. - 2022 - A biophysical account of multiplication by a single neuron.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41586-022-04428-3
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41586-022-04428-3
+      \endverb
+      \keyw{Biophysical models,Motion detection,Neural circuits}
     \endentry
   \enddatalist
 \endrefsection

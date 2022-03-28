@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  21 MAR 2022 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  25 MAR 2022 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2132,14 +2132,11 @@ Package pdftex.def Info: images/figure2.pdf  used on input line 93.
 
 LaTeX Warning: Float too large for page by 30.27142pt on input line 100.
 
-<images/figure3.pdf, id=145, 542.025pt x 722.7pt>
+<images/figure3.pdf, id=145, 533.06654pt x 543.57768pt>
 File: images/figure3.pdf Graphic file (type pdf)
 <use images/figure3.pdf>
 Package pdftex.def Info: images/figure3.pdf  used on input line 104.
-(pdftex.def)             Requested size: 449.0849pt x 598.80426pt.
-
-LaTeX Warning: Float too large for page by 8.67148pt on input line 111.
-
+(pdftex.def)             Requested size: 449.0849pt x 457.93753pt.
 <images/figure4.pdf, id=146, 597.52838pt x 558.78659pt>
 File: images/figure4.pdf Graphic file (type pdf)
 <use images/figure4.pdf>
@@ -2193,7 +2190,7 @@ Italic.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/Open
 Sans-Regular.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/st
 ix-mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/stix-
 mathrm.pfb>
-Output written on Voltage_Calcium_Paper.pdf (12 pages, 500921 bytes).
+Output written on Voltage_Calcium_Paper.pdf (12 pages, 503076 bytes).
 PDF statistics:
  648 PDF objects out of 1000 (max. 8388607)
  319 compressed objects within 4 object streams

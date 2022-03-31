@@ -74,8 +74,7 @@ The multiplicative model thus has in total 6 parameters - high-pass filter time 
 
 The slow rise in GCaMP signals over time is due to the properties of T4 cells or due to the properties of GCaMP6f. To answer this we used a faster indicator GCaMP8f \parencite{Zhang2020}. GCaMP8f was expressed in T4c cells using the same driver line. The experiments were repeated using gratings stimuli in 12 directions at 4 speeds and ON edge in PD and ND. T4c cells GCaMP8f responses were similar to GCaMP6f responses. The modulation and slow rise of the signal could still be seen (Supplement figure). This shows that slow rise in calcium signal is indeed due to T4 cells intrinsic properties and not due to slowness of GCaMP6f indicator. We further compared the model parameters values for GCaMP6f data fit and GCaMP8f data fit (figure \ref{gcampcomparison}). The model parameters had similar values with time constants having slightly smaller values for GCAMP8f as it is a faster indicator.
 
-     
-
+While the T4 cells' Arclight responses to gratings show only modulation, their GCaMP responses show modulation and slow increases over time. Does this response occur exclusively in direction-selective T4 cells or are similar in non-direction-selective cells. In order to answer this, we expressed Arclight \& GCaMP6f in Mi1 \& Tm3 cells, which are not direction-selective. Mi1 \& Tm3 are pre-synaptic to T4 cells and have ON-center receptive field \parencite{Takemura2017, Arenz2017}. Figure \ref{Mi1data} shows the change in fluorescence for Mi1 Arclight (black) \& GCaMP (red) in response to gratings moving at 4 different speeds (figure \ref{Mi1data}A) and to gratings moving at 4 different contrasts (figure \ref{Mi1data}B). The gratings were moved in only one direction, since the direction does not affect non-direction-selective cells' responses. Contrary to T4, Mi1 GCaMP responses showed only modulation without a slow increase over time. Fluorescent changes for Tm3 Arclight (black) and GCaMP (red) are shown in figure \ref{Tm3data}A and \ref{Tm3data}B, respectively, as the gratings move at four different speeds and at four different contrasts. For most of the stimuli conditions, the GCaMP responses do not increase over time, and show only modulation. For gratings moving at 30 deg/s and 60 deg/s, there is a slight increase in GCaMP response over time, but the Arclight response also already has a slow increment over time. Similar to T4, the peak response for Mi1 \& Tm3 decreased with an increase in speed and increased with an increase in contrast (figure \ref{Mi1data}B, D, figure \ref{Tm3data}B, D). Thus, these results together show that voltage to calcium transformation causes GCaMP response increment over time only for direction-selective T4 cells and not for non-direction-selective Mi1 and Tm3 cells.
 
 \begin{figure}
 \begin{fullwidth}
@@ -139,6 +138,28 @@ The slow rise in GCaMP signals over time is due to the properties of T4 cells or
 \caption{\textbf{Model parameters comparison for GCaMP6f \& GCaMP8f} : Data shows mean $\pm$ SD for optimal parameters for the Multiplicative model. The data were fit for grating moving in 12 directions and 4 speeds, and for ON-edge moving in PD \& ND at 4 speeds.}
 
 \label{gcampcomparison}
+	
+\end{fullwidth}
+\end{figure} 
+
+\begin{figure}
+\begin{fullwidth}
+\includegraphics[width=0.84\linewidth]{figure7}
+	%\includegraphics[height = 8cm]{Mi1_Medulla_GtACR}
+\caption{\textbf{Mi1 voltage \& calcium speed, contrast tuning} : (A) Mi1 Arclight (black) \& GCaMP (red) responses to grating moving at 4 different speeds. Data shows the mean $\pm$ SEM of Mi1 cell responses measured in 5 different flies. The plots have twin y-axis. The left y-axis of the plot represents Voltage responses i.e. changes in Arclight fluorescence ($-\Delta F/F$) and the right y-axis of the plot represents Calcium responses i.e. changes in GCaMP fluorescence ($\Delta F/F$) (B) Mi1 peak responses to grating moving at 4 different speeds. (C) Mi1 Arclight (black) \& GCaMP (red) responses to grating moving at 4 different contrasts. Data shows the mean $\pm$ SEM of Mi1 cell responses measured in 5 different flies. (D) Mi1 peak responses to grating moving at 4 different contrasts.}
+
+\label{Mi1data}
+	
+\end{fullwidth}
+\end{figure} 
+
+\begin{figure}
+\begin{fullwidth}
+\includegraphics[width=0.84\linewidth]{figure8}
+	%\includegraphics[height = 8cm]{Mi1_Medulla_GtACR}
+\caption{\textbf{Tm3 voltage \& calcium speed, contrast tuning} : (A) Tm3 Arclight (black) \& GCaMP (red) responses to grating moving at 4 different speeds. Data shows the mean $\pm$ SEM of Tm3 cell responses measured in 5 different flies. The plots have twin y-axis. The left y-axis of the plot represents Voltage responses i.e. changes in Arclight fluorescence ($-\Delta F/F$) and the right y-axis of the plot represents Calcium responses i.e. changes in GCaMP fluorescence ($\Delta F/F$) (B) Tm3 peak responses to grating moving at 4 different speeds. (C) Tm3 Arclight (black) \& GCaMP (red) responses to grating moving at 4 different contrasts. Data shows the mean $\pm$ SEM of Tm3 cell responses measured in 5 different flies. (D) Tm3 peak responses to grating moving at 4 different contrasts.}
+
+\label{Tm3data}
 	
 \end{fullwidth}
 \end{figure} 

@@ -1475,6 +1475,74 @@
       \verb 10.7554/eLife.29044
       \endverb
     \endentry
+    \entry{Takemura2017}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=2436b6cb21b55d1bba85f299fa3cbab4}{%
+           family={Takemura},
+           familyi={T\bibinitperiod},
+           given={Shin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7772d5a96106e899b911e149c601dc4f}{%
+           family={Nern},
+           familyi={N\bibinitperiod},
+           given={Aljoscha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1358d53aabe40a6fdcb5c159e87c4be6}{%
+           family={Chklovskii},
+           familyi={C\bibinitperiod},
+           given={Dmitri\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a3b746e4b7983a4c30403e85678e1ab8}{%
+           family={Scheffer},
+           familyi={S\bibinitperiod},
+           given={Louis\bibnamedelima K.},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3feb1eb14616c5f3fd9d212ac3b0813b}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Gerald\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9532a834fff09a507a9e3a8f09cad403}{%
+           family={Meinertzhagen},
+           familyi={M\bibinitperiod},
+           given={Ian\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {eLife Sciences Publications Ltd}%
+      }
+      \strng{namehash}{c9b0b8ffefd3a7f7fb45b607fd84f35a}
+      \strng{fullhash}{5c028c41a640e5f0b89c4084e9d28ccc}
+      \strng{bibnamehash}{c9b0b8ffefd3a7f7fb45b607fd84f35a}
+      \strng{authorbibnamehash}{c9b0b8ffefd3a7f7fb45b607fd84f35a}
+      \strng{authornamehash}{c9b0b8ffefd3a7f7fb45b607fd84f35a}
+      \strng{authorfullhash}{5c028c41a640e5f0b89c4084e9d28ccc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Analysing computations in neural circuits often uses simplified models because the actual neuronal implementation is not known. For example, a problem in vision, how the eye detects image motion, has long been analysed using Hassenstein-Reichardt (HR) detector or Barlow-Levick (BL) models. These both simulate motion detection well, but the exact neuronal circuits undertaking these tasks remain elusive. We reconstructed a comprehensive connectome of the circuits of Drosophila's motion-sensing T4 cells using a novel EM technique. We uncover complex T4 inputs and reveal that putative excitatory inputs cluster at T4‘s dendrite shafts, while inhibitory inputs localize to the bases. Consistent with our previous study, we reveal that Mi1 and Tm3 cells provide most synaptic contacts onto T4. We are, however, unable to reproduce the spatial offset between these cells reported previously. Our comprehensive connectome reveals complex circuits that include candidate anatomical substrates for both HR and BL types of motion detectors.}
+      \field{issn}{2050084X}
+      \field{journaltitle}{eLife}
+      \field{month}{4}
+      \field{title}{{The comprehensive connectome of a neural substrate for ‘ON' motion detection in Drosophila}}
+      \field{volume}{6}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.7554/ELIFE.24394
+      \endverb
+      \verb{file}
+      \verb :Users/amishra/Library/Application Support/Mendeley Desktop/Downloaded/Takemura et al. - 2017 - The comprehensive connectome of a neural substrate for ‘ON' motion detection in Drosophila(2).pdf:pdf
+      \endverb
+    \endentry
     \entry{Gruntman2018}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=dd9f77ba341179ddc4b96fd5b3736546}{%

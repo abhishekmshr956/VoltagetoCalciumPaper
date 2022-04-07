@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  5 APR 2022 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  7 APR 2022 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2204,7 +2204,7 @@ Package logreq Info: Writing requests to 'Voltage_Calcium_Paper.run.xml'.
 Here is how much of TeX's memory you used:
  33989 strings out of 492649
  634059 string characters out of 6129622
- 1101542 words of memory out of 5000000
+ 1102542 words of memory out of 5000000
  36768 multiletter control sequences out of 15000+600000
  719744 words of font info for 641 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2220,9 +2220,9 @@ Italic.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/Open
 Sans-Regular.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/st
 ix-mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/stix-
 mathrm.pfb>
-Output written on Voltage_Calcium_Paper.pdf (16 pages, 724899 bytes).
+Output written on Voltage_Calcium_Paper.pdf (16 pages, 723459 bytes).
 PDF statistics:
- 937 PDF objects out of 1000 (max. 8388607)
+ 933 PDF objects out of 1000 (max. 8388607)
  409 compressed objects within 5 object streams
  65 named destinations out of 1000 (max. 500000)
  69755 words of extra memory for PDF output out of 74296 (max. 10000000)

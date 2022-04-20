@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  20 APR 2022 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  20 APR 2022 15:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2113,8 +2113,18 @@ LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <10.95> not available
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4]
-<images/figure1.pdf, id=152, 542.025pt x 722.7pt>
+
+
+LaTeX Warning: Reference `Tm3data' on page 4 undefined on input line 82.
+
+
+LaTeX Warning: Reference `Tm3data' on page 4 undefined on input line 82.
+
+
+LaTeX Warning: Reference `Tm3data' on page 4 undefined on input line 82.
+
+[4]
+<images/figure1.pdf, id=148, 542.025pt x 722.7pt>
 File: images/figure1.pdf Graphic file (type pdf)
 <use images/figure1.pdf>
 Package pdftex.def Info: images/figure1.pdf  used on input line 91.
@@ -2125,7 +2135,7 @@ LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <8> not available
 
 LaTeX Warning: Float too large for page by 30.27142pt on input line 98.
 
-<images/figure2.pdf, id=153, 542.025pt x 722.7pt>
+<images/figure2.pdf, id=149, 542.025pt x 722.7pt>
 File: images/figure2.pdf Graphic file (type pdf)
 <use images/figure2.pdf>
 Package pdftex.def Info: images/figure2.pdf  used on input line 102.
@@ -2133,17 +2143,17 @@ Package pdftex.def Info: images/figure2.pdf  used on input line 102.
 
 LaTeX Warning: Float too large for page by 30.27142pt on input line 109.
 
-<images/figure3.pdf, id=154, 533.06654pt x 543.57768pt>
+<images/figure3.pdf, id=150, 533.06654pt x 543.57768pt>
 File: images/figure3.pdf Graphic file (type pdf)
 <use images/figure3.pdf>
 Package pdftex.def Info: images/figure3.pdf  used on input line 113.
 (pdftex.def)             Requested size: 449.0849pt x 457.93753pt.
-<images/figure4.pdf, id=155, 597.52838pt x 558.78659pt>
+<images/figure4.pdf, id=151, 597.52838pt x 558.78659pt>
 File: images/figure4.pdf Graphic file (type pdf)
 <use images/figure4.pdf>
 Package pdftex.def Info: images/figure4.pdf  used on input line 124.
 (pdftex.def)             Requested size: 449.0849pt x 419.98419pt.
-<images/figure5.pdf, id=156, 542.025pt x 722.7pt>
+<images/figure5.pdf, id=152, 542.025pt x 722.7pt>
 File: images/figure5.pdf Graphic file (type pdf)
 <use images/figure5.pdf>
 Package pdftex.def Info: images/figure5.pdf  used on input line 135.
@@ -2151,39 +2161,29 @@ Package pdftex.def Info: images/figure5.pdf  used on input line 135.
 
 LaTeX Warning: Float too large for page by 8.67148pt on input line 142.
 
-<images/figure6.pdf, id=157, 867.24pt x 433.62pt>
+<images/figure6.pdf, id=153, 867.24pt x 433.62pt>
 File: images/figure6.pdf Graphic file (type pdf)
 <use images/figure6.pdf>
 Package pdftex.def Info: images/figure6.pdf  used on input line 146.
 (pdftex.def)             Requested size: 449.0849pt x 224.54416pt.
-<images/figure7.pdf, id=158, 552.08095pt x 306.10675pt>
+<images/figure7.pdf, id=154, 552.08095pt x 586.93968pt>
 File: images/figure7.pdf Graphic file (type pdf)
 <use images/figure7.pdf>
 Package pdftex.def Info: images/figure7.pdf  used on input line 157.
-(pdftex.def)             Requested size: 449.0849pt x 249.00537pt.
-<images/figure8.pdf, id=159, 552.08095pt x 306.10675pt>
+(pdftex.def)             Requested size: 449.0849pt x 477.45154pt.
+<images/figure8.pdf, id=155, 534.159pt x 586.93968pt>
 File: images/figure8.pdf Graphic file (type pdf)
 <use images/figure8.pdf>
-Package pdftex.def Info: images/figure8.pdf  used on input line 168.
-(pdftex.def)             Requested size: 449.0849pt x 249.00537pt.
-<images/figure9.pdf, id=160, 534.159pt x 586.93968pt>
+Package pdftex.def Info: images/figure8.pdf  used on input line 179.
+(pdftex.def)             Requested size: 449.0849pt x 493.45586pt.
+<images/figure9.pdf, id=156, 433.62pt x 433.62pt>
 File: images/figure9.pdf Graphic file (type pdf)
 <use images/figure9.pdf>
-Package pdftex.def Info: images/figure9.pdf  used on input line 179.
-(pdftex.def)             Requested size: 449.0849pt x 493.45586pt.
-<images/figure10.pdf, id=161, 433.62pt x 433.62pt>
-File: images/figure10.pdf Graphic file (type pdf)
-<use images/figure10.pdf>
-Package pdftex.def Info: images/figure10.pdf  used on input line 190.
-(pdftex.def)             Requested size: 449.0849pt x 449.10815pt.
+Package pdftex.def Info: images/figure9.pdf  used on input line 190.
+(pdftex.def)             Requested size: 240.58061pt x 240.58255pt.
 [5] [6 <./images/figure1.pdf>] [7 <./images/figure2.pdf>] [8 <./images/figure3.
 pdf>] [9 <./images/figure4.pdf>] [10 <./images/figure5.pdf>] [11 <./images/figu
-re6.pdf> <./images/figure7.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/figure7.pdf): PDF i
-nclusion: multiple pdfs with page group included in a single page
->] [12 <./images/figure8.pdf>] [13 <./images/figure9.pdf>] [14 <./images/figure
-10.pdf>]
+re6.pdf>] [12 <./images/figure7.pdf>] [13 <./images/figure8.pdf>]
 Overfull \hbox (6.00967pt too wide) in paragraph at lines 222--222
 \T1/fos/m/n/9 (-20) flu-o-res-cent pro-tein volt-age probe. \T1/fos/m/it/9 (-20
 ) Neu-ron \T1/fos/b/n/9 75, \T1/fos/m/n/9 (-20) 779^^U785 (2012). [][]doi: 10.1
@@ -2192,30 +2192,35 @@ Overfull \hbox (6.00967pt too wide) in paragraph at lines 222--222
 
 
 AED: lastpage setting LastPage
-[15] (./Voltage_Calcium_Paper.suppinfo)
+[14 <./images/figure9.pdf>] (./Voltage_Calcium_Paper.suppinfo)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
- (./Voltage_Calcium_Paper.aux)
+
+(./Voltage_Calcium_Paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
 Package rerunfilecheck Info: File `Voltage_Calcium_Paper.out' has not changed.
-(rerunfilecheck)             Checksum: 0A22E1C71D2550EEE372F8FAC8D375D6;578.
+(rerunfilecheck)             Checksum: FD89BB2645E5512D99424FDD196A843C;578.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'Voltage_Calcium_Paper.run.xml'.
 \openout1 = `Voltage_Calcium_Paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33676 strings out of 492649
- 626102 string characters out of 6129622
- 1099712 words of memory out of 5000000
- 36579 multiletter control sequences out of 15000+600000
- 700659 words of font info for 549 fonts, out of 8000000 for 9000
+ 33651 strings out of 492649
+ 625569 string characters out of 6129622
+ 1097862 words of memory out of 5000000
+ 36575 multiletter control sequences out of 15000+600000
+ 699114 words of font info for 534 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,49p,10466b,1770s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-03.enc}
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc}{/
-usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/us
-r/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-04.enc}</usr/
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc}
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/
+usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-04.enc}{/us
+r/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-03.enc}</usr/
 local/texlive/2018/texmf-dist/fonts/type1/public/opensans/OpenSans-Bold.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/OpenSans-BoldItali
 c.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/OpenSans-
@@ -2223,10 +2228,10 @@ Italic.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/Open
 Sans-Regular.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/st
 ix-mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/stix-
 mathrm.pfb>
-Output written on Voltage_Calcium_Paper.pdf (15 pages, 713196 bytes).
+Output written on Voltage_Calcium_Paper.pdf (14 pages, 706185 bytes).
 PDF statistics:
- 903 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
- 53 named destinations out of 1000 (max. 500000)
- 61571 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 865 PDF objects out of 1000 (max. 8388607)
+ 370 compressed objects within 4 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 61566 words of extra memory for PDF output out of 61914 (max. 10000000)
 

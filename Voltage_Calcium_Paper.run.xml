@@ -81,7 +81,7 @@
       <file>Voltage_Calcium_Paper.bcf</file>
     </requires>
     <requires type="editable">
-      <file>Reference.bib</file>
+      <file>reference.bib</file>
     </requires>
   </external>
 </requests>

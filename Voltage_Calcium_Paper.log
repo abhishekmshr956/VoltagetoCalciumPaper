@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  7 APR 2022 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  20 APR 2022 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1853,49 +1853,49 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 37.
+(biblatex)                Setting 'uniquename=init' on input line 39.
 
 (./Voltage_Calcium_Paper.aux)
 \openout1 = `Voltage_Calcium_Paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 39.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 37.
-LaTeX Font Info:    Try loading font information for LS1+stix on input line 37.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 39.
+LaTeX Font Info:    Try loading font information for LS1+stix on input line 39.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls1stix.fd
 File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
 )
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 37.
-LaTeX Font Info:    Try loading font information for LS2+stix on input line 37.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 39.
+LaTeX Font Info:    Try loading font information for LS2+stix on input line 39.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls2stix.fd
 File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Try loading font information for T1+fos on input line 37.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for T1+fos on input line 39.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/opensans/t1fos.fd
 File: t1fos.fd 2011/11/11 Fontinst v1.927 font definitions for T1/fos.
@@ -1932,7 +1932,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 37.
+LaTeX Info: Redefining \microtypecontext on input line 39.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1987,8 +1987,8 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 37.
-Package hyperref Info: Link coloring ON on input line 37.
+(lastpage)             ! on input line 39.
+Package hyperref Info: Link coloring ON on input line 39.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1997,9 +1997,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count478
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
 
 (./Voltage_Calcium_Paper.out) (./Voltage_Calcium_Paper.out)
 \@outlinefile=\write6
@@ -2008,7 +2008,7 @@ LaTeX Info: Redefining \nameref on input line 37.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 37.
+. Activating mapping `default' on line 39.
 .................................................
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-basic-dicti
@@ -2020,16 +2020,16 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \symgns@font=\mathgroup12
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/fos/m/n --> TS1/fos/bx/n on input line 37.
-Package gensymb Info: Math companion symbols declared on input line 37.
-LaTeX Info: Redefining \degree on input line 37.
-LaTeX Info: Redefining \celsius on input line 37.
+(Font)                  TS1/fos/m/n --> TS1/fos/bx/n on input line 39.
+Package gensymb Info: Math companion symbols declared on input line 39.
+LaTeX Info: Redefining \degree on input line 39.
+LaTeX Info: Redefining \celsius on input line 39.
 Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
-erthousand on input line 37.
-LaTeX Info: Redefining \ohm on input line 37.
-Package gensymb Info: Using \textohm for \ohm on input line 37.
-LaTeX Info: Redefining \micro on input line 37.
-Package gensymb Info: Using \textmu for \micro on input line 37.
+erthousand on input line 39.
+LaTeX Info: Redefining \ohm on input line 39.
+Package gensymb Info: Using \textohm for \ohm on input line 39.
+LaTeX Info: Redefining \micro on input line 39.
+Package gensymb Info: Using \textmu for \micro on input line 39.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -2038,56 +2038,56 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Voltage_Calcium_Paper.bbl' found.
  (./Voltage_Calcium_Paper.bbl)
-Package biblatex Info: Reference section=0 on input line 37.
-Package biblatex Info: Reference segment=0 on input line 37.
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
 LaTeX Font Info:    Try loading font information for LS1+stixscr on input line 
-37.
+39.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls1stixscr.fd
 File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
 )
 LaTeX Font Info:    Try loading font information for LS2+stixex on input line 3
-7.
+9.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls2stixex.fd
 File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
 
 )
 LaTeX Font Info:    Try loading font information for LS1+stixfrak on input line
- 37.
+ 39.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls1stixfrak.fd
 File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
 )
 LaTeX Font Info:    Try loading font information for LS1+stixbb on input line 3
-7.
+9.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls1stixbb.fd
 File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
 
 )
 LaTeX Font Info:    Try loading font information for LS2+stixcal on input line 
-37.
+39.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls2stixcal.fd
 File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definiti
 ons
 )
 LaTeX Font Info:    Try loading font information for LS1+stixsf on input line 3
-7.
+9.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls1stixsf.fd
 File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
 
 )
 LaTeX Font Info:    Try loading font information for LS2+stixtt on input line 3
-7.
+9.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/stix/ls2stixtt.fd
 File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
 
 )
-LaTeX Font Info:    Try loading font information for TS1+fos on input line 37.
+LaTeX Font Info:    Try loading font information for TS1+fos on input line 39.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/opensans/ts1fos.fd
 File: ts1fos.fd 2011/11/11 Fontinst v1.927 font definitions for TS1/fos.
@@ -2097,84 +2097,84 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <9> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <22> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/fos/bx/it' in size <22> not available
-(Font)              Font shape `T1/fos/b/it' tried instead on input line 39.
+(Font)              Font shape `T1/fos/b/it' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <10> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <7.5> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <7> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 47.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 49.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4]
-<images/figure1.pdf, id=172, 542.025pt x 722.7pt>
+<images/figure1.pdf, id=152, 542.025pt x 722.7pt>
 File: images/figure1.pdf Graphic file (type pdf)
 <use images/figure1.pdf>
-Package pdftex.def Info: images/figure1.pdf  used on input line 83.
+Package pdftex.def Info: images/figure1.pdf  used on input line 91.
 (pdftex.def)             Requested size: 449.0849pt x 598.80426pt.
 LaTeX Font Info:    Font shape `T1/fos/bx/n' in size <8> not available
-(Font)              Font shape `T1/fos/b/n' tried instead on input line 85.
+(Font)              Font shape `T1/fos/b/n' tried instead on input line 93.
 
 
-LaTeX Warning: Float too large for page by 30.27142pt on input line 90.
+LaTeX Warning: Float too large for page by 30.27142pt on input line 98.
 
-<images/figure2.pdf, id=173, 542.025pt x 722.7pt>
+<images/figure2.pdf, id=153, 542.025pt x 722.7pt>
 File: images/figure2.pdf Graphic file (type pdf)
 <use images/figure2.pdf>
-Package pdftex.def Info: images/figure2.pdf  used on input line 94.
+Package pdftex.def Info: images/figure2.pdf  used on input line 102.
 (pdftex.def)             Requested size: 449.0849pt x 598.80426pt.
 
-LaTeX Warning: Float too large for page by 30.27142pt on input line 101.
+LaTeX Warning: Float too large for page by 30.27142pt on input line 109.
 
-<images/figure3.pdf, id=174, 533.06654pt x 543.57768pt>
+<images/figure3.pdf, id=154, 533.06654pt x 543.57768pt>
 File: images/figure3.pdf Graphic file (type pdf)
 <use images/figure3.pdf>
-Package pdftex.def Info: images/figure3.pdf  used on input line 105.
+Package pdftex.def Info: images/figure3.pdf  used on input line 113.
 (pdftex.def)             Requested size: 449.0849pt x 457.93753pt.
-<images/figure4.pdf, id=175, 597.52838pt x 558.78659pt>
+<images/figure4.pdf, id=155, 597.52838pt x 558.78659pt>
 File: images/figure4.pdf Graphic file (type pdf)
 <use images/figure4.pdf>
-Package pdftex.def Info: images/figure4.pdf  used on input line 116.
+Package pdftex.def Info: images/figure4.pdf  used on input line 124.
 (pdftex.def)             Requested size: 449.0849pt x 419.98419pt.
-<images/figure5.pdf, id=176, 542.025pt x 722.7pt>
+<images/figure5.pdf, id=156, 542.025pt x 722.7pt>
 File: images/figure5.pdf Graphic file (type pdf)
 <use images/figure5.pdf>
-Package pdftex.def Info: images/figure5.pdf  used on input line 127.
+Package pdftex.def Info: images/figure5.pdf  used on input line 135.
 (pdftex.def)             Requested size: 449.0849pt x 598.80426pt.
 
-LaTeX Warning: Float too large for page by 8.67148pt on input line 134.
+LaTeX Warning: Float too large for page by 8.67148pt on input line 142.
 
-<images/figure6.pdf, id=177, 867.24pt x 433.62pt>
+<images/figure6.pdf, id=157, 867.24pt x 433.62pt>
 File: images/figure6.pdf Graphic file (type pdf)
 <use images/figure6.pdf>
-Package pdftex.def Info: images/figure6.pdf  used on input line 138.
+Package pdftex.def Info: images/figure6.pdf  used on input line 146.
 (pdftex.def)             Requested size: 449.0849pt x 224.54416pt.
-<images/figure7.pdf, id=178, 552.08095pt x 306.10675pt>
+<images/figure7.pdf, id=158, 552.08095pt x 306.10675pt>
 File: images/figure7.pdf Graphic file (type pdf)
 <use images/figure7.pdf>
-Package pdftex.def Info: images/figure7.pdf  used on input line 149.
+Package pdftex.def Info: images/figure7.pdf  used on input line 157.
 (pdftex.def)             Requested size: 449.0849pt x 249.00537pt.
-<images/figure8.pdf, id=179, 552.08095pt x 306.10675pt>
+<images/figure8.pdf, id=159, 552.08095pt x 306.10675pt>
 File: images/figure8.pdf Graphic file (type pdf)
 <use images/figure8.pdf>
-Package pdftex.def Info: images/figure8.pdf  used on input line 160.
+Package pdftex.def Info: images/figure8.pdf  used on input line 168.
 (pdftex.def)             Requested size: 449.0849pt x 249.00537pt.
-<images/figure9.pdf, id=180, 534.159pt x 586.93968pt>
+<images/figure9.pdf, id=160, 534.159pt x 586.93968pt>
 File: images/figure9.pdf Graphic file (type pdf)
 <use images/figure9.pdf>
-Package pdftex.def Info: images/figure9.pdf  used on input line 171.
+Package pdftex.def Info: images/figure9.pdf  used on input line 179.
 (pdftex.def)             Requested size: 449.0849pt x 493.45586pt.
-<images/figure10.pdf, id=181, 433.62pt x 433.62pt>
+<images/figure10.pdf, id=161, 433.62pt x 433.62pt>
 File: images/figure10.pdf Graphic file (type pdf)
 <use images/figure10.pdf>
-Package pdftex.def Info: images/figure10.pdf  used on input line 182.
+Package pdftex.def Info: images/figure10.pdf  used on input line 190.
 (pdftex.def)             Requested size: 449.0849pt x 449.10815pt.
 [5] [6 <./images/figure1.pdf>] [7 <./images/figure2.pdf>] [8 <./images/figure3.
 pdf>] [9 <./images/figure4.pdf>] [10 <./images/figure5.pdf>] [11 <./images/figu
@@ -2182,33 +2182,36 @@ re6.pdf> <./images/figure7.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/figure7.pdf): PDF i
 nclusion: multiple pdfs with page group included in a single page
->]
-Overfull \vbox (16.96138pt too high) has occurred while \output is active []
+>] [12 <./images/figure8.pdf>] [13 <./images/figure9.pdf>] [14 <./images/figure
+10.pdf>]
+Overfull \hbox (6.00967pt too wide) in paragraph at lines 222--222
+\T1/fos/m/n/9 (-20) flu-o-res-cent pro-tein volt-age probe. \T1/fos/m/it/9 (-20
+) Neu-ron \T1/fos/b/n/9 75, \T1/fos/m/n/9 (-20) 779^^U785 (2012). [][]doi: 10.1
+016/j.neuron.2012.06.040[][] 
+ []
 
 
-[12 <./images/figure8.pdf>] [13 <./images/figure9.pdf>] [14 <./images/figure10.
-pdf>] [15] 
 AED: lastpage setting LastPage
-[16] (./Voltage_Calcium_Paper.suppinfo)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
+[15] (./Voltage_Calcium_Paper.suppinfo)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (./Voltage_Calcium_Paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
 Package rerunfilecheck Info: File `Voltage_Calcium_Paper.out' has not changed.
-(rerunfilecheck)             Checksum: 8FA4677F5CE77E465830C878971CB431;531.
+(rerunfilecheck)             Checksum: 0A22E1C71D2550EEE372F8FAC8D375D6;578.
 Package logreq Info: Writing requests to 'Voltage_Calcium_Paper.run.xml'.
 \openout1 = `Voltage_Calcium_Paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33989 strings out of 492649
- 634059 string characters out of 6129622
- 1102542 words of memory out of 5000000
- 36768 multiletter control sequences out of 15000+600000
- 719744 words of font info for 641 fonts, out of 8000000 for 9000
+ 33676 strings out of 492649
+ 626102 string characters out of 6129622
+ 1099712 words of memory out of 5000000
+ 36579 multiletter control sequences out of 15000+600000
+ 700659 words of font info for 549 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,52p,10466b,1767s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,11n,49p,10466b,1770s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-03.enc}
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc}{/
 usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/us
@@ -2220,10 +2223,10 @@ Italic.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/opensans/Open
 Sans-Regular.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/st
 ix-mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/stix-
 mathrm.pfb>
-Output written on Voltage_Calcium_Paper.pdf (16 pages, 723459 bytes).
+Output written on Voltage_Calcium_Paper.pdf (15 pages, 713196 bytes).
 PDF statistics:
- 933 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 65 named destinations out of 1000 (max. 500000)
- 69755 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 903 PDF objects out of 1000 (max. 8388607)
+ 381 compressed objects within 4 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 61571 words of extra memory for PDF output out of 61914 (max. 10000000)
 

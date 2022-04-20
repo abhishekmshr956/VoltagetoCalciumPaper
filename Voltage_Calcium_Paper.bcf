@@ -1974,44 +1974,30 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex">Reference.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">reference.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Llinas1981</bcf:citekey>
-    <bcf:citekey order="2">Chapman2002</bcf:citekey>
-    <bcf:citekey order="3">DiMaio2008</bcf:citekey>
-    <bcf:citekey order="4">Borst2020</bcf:citekey>
-    <bcf:citekey order="5">Joesch2010</bcf:citekey>
-    <bcf:citekey order="5">Eichner2011</bcf:citekey>
-    <bcf:citekey order="6">Maisak2013</bcf:citekey>
-    <bcf:citekey order="7">Hassenstein1956</bcf:citekey>
-    <bcf:citekey order="8">Barlow1965</bcf:citekey>
-    <bcf:citekey order="9">Fisher2015</bcf:citekey>
-    <bcf:citekey order="9">Salazar-Gatzimas2016</bcf:citekey>
-    <bcf:citekey order="10">Haag2016</bcf:citekey>
-    <bcf:citekey order="10">Leong2016</bcf:citekey>
-    <bcf:citekey order="10">Haag2017</bcf:citekey>
-    <bcf:citekey order="11">Gruntman2018</bcf:citekey>
-    <bcf:citekey order="12">Wienecke2018</bcf:citekey>
-    <bcf:citekey order="13">Groschner2022</bcf:citekey>
+    <bcf:citekey order="1">Chapman2002</bcf:citekey>
+    <bcf:citekey order="2">Maio2008</bcf:citekey>
+    <bcf:citekey order="3">Borst2020</bcf:citekey>
+    <bcf:citekey order="4">Joesch2010</bcf:citekey>
+    <bcf:citekey order="4">Eichner2011</bcf:citekey>
+    <bcf:citekey order="5">Maisak2013</bcf:citekey>
+    <bcf:citekey order="6">Groschner2022</bcf:citekey>
+    <bcf:citekey order="7">Chen2013</bcf:citekey>
+    <bcf:citekey order="8">Jin2012</bcf:citekey>
+    <bcf:citekey order="9">Denk1990</bcf:citekey>
+    <bcf:citekey order="10">Mazurek2014</bcf:citekey>
+    <bcf:citekey order="11">Zhang2020</bcf:citekey>
+    <bcf:citekey order="12">Takemura2017</bcf:citekey>
+    <bcf:citekey order="12">Arenz2017</bcf:citekey>
+    <bcf:citekey order="13">Chen2013</bcf:citekey>
     <bcf:citekey order="14">Jin2012</bcf:citekey>
-    <bcf:citekey order="15">Murata2005</bcf:citekey>
-    <bcf:citekey order="16">Cao2013</bcf:citekey>
-    <bcf:citekey order="17">Chen2013</bcf:citekey>
-    <bcf:citekey order="18">Chen2013</bcf:citekey>
-    <bcf:citekey order="19">Jin2012</bcf:citekey>
-    <bcf:citekey order="20">Denk1990</bcf:citekey>
-    <bcf:citekey order="21">Mazurek2014</bcf:citekey>
-    <bcf:citekey order="22">Zhang2020</bcf:citekey>
-    <bcf:citekey order="23">Takemura2017</bcf:citekey>
-    <bcf:citekey order="23">Arenz2017</bcf:citekey>
-    <bcf:citekey order="24">Chen2013</bcf:citekey>
-    <bcf:citekey order="25">Jin2012</bcf:citekey>
-    <bcf:citekey order="26">Maisak2013</bcf:citekey>
-    <bcf:citekey order="27">Maisak2013</bcf:citekey>
-    <bcf:citekey order="28">Pologruto2003</bcf:citekey>
-    <bcf:citekey order="29">Arenz2017</bcf:citekey>
-    <bcf:citekey order="30">Jia2010</bcf:citekey>
+    <bcf:citekey order="15">Maisak2013</bcf:citekey>
+    <bcf:citekey order="16">Maisak2013</bcf:citekey>
+    <bcf:citekey order="17">Pologruto2003</bcf:citekey>
+    <bcf:citekey order="18">Arenz2017</bcf:citekey>
+    <bcf:citekey order="19">Jia2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

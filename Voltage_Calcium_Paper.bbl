@@ -64,6 +64,45 @@
       \field{pages}{73\bibrangedash 76}
       \range{pages}{4}
     \endentry
+    \entry{Littleton2000}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c2499e7d33252ae1adbd5d535f021e40}{%
+           family={Littleton},
+           familyi={L\bibinitperiod},
+           given={J\bibnamedelima Troy},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8490244495c1805e0a5c613b3b272eab}{%
+           family={Ganetzky},
+           familyi={G\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1fce6e7d76cd43c3f33105eb1454848c}
+      \strng{fullhash}{1fce6e7d76cd43c3f33105eb1454848c}
+      \strng{bibnamehash}{1fce6e7d76cd43c3f33105eb1454848c}
+      \strng{authorbibnamehash}{1fce6e7d76cd43c3f33105eb1454848c}
+      \strng{authornamehash}{1fce6e7d76cd43c3f33105eb1454848c}
+      \strng{authorfullhash}{1fce6e7d76cd43c3f33105eb1454848c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/s0896-6273(00)81135-6}{doi: 10.1016/s0896-6273(00)81135-6}}
+      \field{journaltitle}{Neuron}
+      \field{number}{1}
+      \field{title}{Ion channels and synaptic organization: analysis of the Drosophila genome}
+      \field{volume}{26}
+      \field{year}{2000}
+      \field{pages}{35\bibrangedash 43}
+      \range{pages}{9}
+    \endentry
     \entry{Chapman2002}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=6ef1d98201080a35be87b7cc93b9fe59}{%
@@ -142,6 +181,96 @@
       \field{pages}{1\bibrangedash 9}
       \range{pages}{9}
     \endentry
+    \entry{Murata2005}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=5eae96bf8a4c12aad044ef3208e416cf}{%
+           family={Murata},
+           familyi={M\bibinitperiod},
+           given={Yoshimichi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=109b3d5a851d000bd1bc6cde2c74d125}{%
+           family={Iwasaki},
+           familyi={I\bibinitperiod},
+           given={Hirohide},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c7cd435e8f111693ab94835f279b0090}{%
+           family={Sasaki},
+           familyi={S\bibinitperiod},
+           given={Mari},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8e6934590621f83b5587628bbd26cd38}{%
+           family={Inaba},
+           familyi={I\bibinitperiod},
+           given={Kazuo},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d2d47b28f82397bfa2c6c1c9d09db8ea}{%
+           family={Okamura},
+           familyi={O\bibinitperiod},
+           given={Yasushi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{41edbc65cc0559d1b5116fd7ba5eb020}
+      \strng{fullhash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \strng{bibnamehash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \strng{authorbibnamehash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \strng{authornamehash}{41edbc65cc0559d1b5116fd7ba5eb020}
+      \strng{authorfullhash}{4af82337ee5ea9ff674ed20fbed17cf7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nature03650}{doi: 10.1038/nature03650}}
+      \field{journaltitle}{Nature}
+      \field{number}{7046}
+      \field{title}{Phosphoinositide phosphatase activity coupled to an intrinsic voltage sensor}
+      \field{volume}{435}
+      \field{year}{2005}
+      \field{pages}{1239\bibrangedash 1243}
+      \range{pages}{5}
+    \endentry
+    \entry{King2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=63673afb04cfc41f1139eabf6193efe9}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Glenn\bibnamedelima F},
+           giveni={G\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{63673afb04cfc41f1139eabf6193efe9}
+      \strng{fullhash}{63673afb04cfc41f1139eabf6193efe9}
+      \strng{bibnamehash}{63673afb04cfc41f1139eabf6193efe9}
+      \strng{authorbibnamehash}{63673afb04cfc41f1139eabf6193efe9}
+      \strng{authornamehash}{63673afb04cfc41f1139eabf6193efe9}
+      \strng{authorfullhash}{63673afb04cfc41f1139eabf6193efe9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.toxicon.2006.11.012}{doi: 10.1016/j.toxicon.2006.11.012}}
+      \field{journaltitle}{Toxicon}
+      \field{number}{4}
+      \field{title}{Modulation of insect CaV channels by peptidic spider toxins}
+      \field{volume}{49}
+      \field{year}{2007}
+      \field{pages}{513\bibrangedash 530}
+      \range{pages}{18}
+    \endentry
     \entry{Maio2008}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=f65eaafb05c46b6f3645e71f7f14b126}{%
@@ -173,6 +302,87 @@
       \field{year}{2008}
       \field{pages}{26\bibrangedash 38}
       \range{pages}{13}
+    \endentry
+    \entry{Gu2009}{article}{}
+      \name{author}{9}{}{%
+        {{uniquename=0,uniquepart=base,hash=d61a70e56b681e8733b8efc9f934c750}{%
+           family={Gu},
+           familyi={G\bibinitperiod},
+           given={Huaiyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9126f7140c0255aeaac3a4ce7f03cfff}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Shaojuan\bibnamedelima Amy},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1f2e2c9dbbe1c3c03d1632eb95b714a2}{%
+           family={Campusano},
+           familyi={C\bibinitperiod},
+           given={Jorge\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b02b248736bdd31122bb9c02fb155f8f}{%
+           family={Iniguez},
+           familyi={I\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3dc73f133ea09b95e46bc79a120ff9e8}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Hailing},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2e2358bc9a01e7d47ca97cff3e4e48cc}{%
+           family={Hoang},
+           familyi={H\bibinitperiod},
+           given={Andy\bibnamedelima An},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=42aa66da168ab8a56aee16d7efd0f868}{%
+           family={Lavian},
+           familyi={L\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=23a76c1aa804a929eb71ea741040ff45}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xicui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44573c3b7e1a60b5abe1e713bcc90966}{%
+           family={O'Dowd},
+           familyi={O\bibinitperiod},
+           given={Diane\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society}%
+      }
+      \strng{namehash}{6bb2a83e487efe4af0f1d759ea952200}
+      \strng{fullhash}{8f52a0236ce9d761122accfed5bd3ea8}
+      \strng{bibnamehash}{6bb2a83e487efe4af0f1d759ea952200}
+      \strng{authorbibnamehash}{6bb2a83e487efe4af0f1d759ea952200}
+      \strng{authornamehash}{6bb2a83e487efe4af0f1d759ea952200}
+      \strng{authorfullhash}{8f52a0236ce9d761122accfed5bd3ea8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/0.1152/jn.91103.2008}{doi: 0.1152/jn.91103.2008}}
+      \field{journaltitle}{Journal of neurophysiology}
+      \field{number}{1}
+      \field{title}{Cav2-type calcium channels encoded by cac regulate AP-independent neurotransmitter release at cholinergic synapses in adult Drosophila brain}
+      \field{volume}{101}
+      \field{year}{2009}
+      \field{pages}{42\bibrangedash 53}
+      \range{pages}{12}
     \endentry
     \entry{Joesch2010}{article}{}
       \name{author}{5}{}{%
@@ -402,6 +612,69 @@
       \field{pages}{779\bibrangedash 785}
       \range{pages}{7}
     \endentry
+    \entry{Cao2013}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=c7e38c7d56a44b229f19f8860b752353}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Guan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bb837044c08946b49a02a3ddaacd5f9c}{%
+           family={Platisa},
+           familyi={P\bibinitperiod},
+           given={Jelena},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=34a28c43e051c5959c25dc41dccd8cac}{%
+           family={Pieribone},
+           familyi={P\bibinitperiod},
+           given={Vincent\bibnamedelima A},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9ba49d1cdb5dc62ed66665254b128879}{%
+           family={Raccuglia},
+           familyi={R\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce913b84bf8466520d6b975c4dd1182e}{%
+           family={Kunst},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=681fc314f02abe5532ed2aa01bd9027a}{%
+           family={Nitabach},
+           familyi={N\bibinitperiod},
+           given={Michael\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{fullhash}{3f9621801efdb57074d4236150ad3e00}
+      \strng{bibnamehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{authorbibnamehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{authornamehash}{8fcf818bef023a80c4ebadbc82ba920a}
+      \strng{authorfullhash}{3f9621801efdb57074d4236150ad3e00}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2013.07.027}{doi: 10.1016/j.cell.2013.07.027}}
+      \field{journaltitle}{Cell}
+      \field{number}{4}
+      \field{title}{Genetically targeted optical electrophysiology in intact neural circuits}
+      \field{volume}{154}
+      \field{year}{2013}
+      \field{pages}{904\bibrangedash 913}
+      \range{pages}{10}
+    \endentry
     \entry{Chen2013}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -490,6 +763,51 @@
       \field{year}{2013}
       \field{pages}{295\bibrangedash 300}
       \range{pages}{6}
+    \endentry
+    \entry{Iniguez2013}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=b02b248736bdd31122bb9c02fb155f8f}{%
+           family={Iniguez},
+           familyi={I\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d9b09c12a6595fe8c43cd8088e13d75e}{%
+           family={Schutte},
+           familyi={S\bibinitperiod},
+           given={Soleil\bibnamedelima S},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44573c3b7e1a60b5abe1e713bcc90966}{%
+           family={O'Dowd},
+           familyi={O\bibinitperiod},
+           given={Diane\bibnamedelima K},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society Bethesda, MD}%
+      }
+      \strng{namehash}{1361f42c5d9b091049fe5b4495812745}
+      \strng{fullhash}{a53ef173ffc3ac7306f2e5b5f541c502}
+      \strng{bibnamehash}{a53ef173ffc3ac7306f2e5b5f541c502}
+      \strng{authorbibnamehash}{a53ef173ffc3ac7306f2e5b5f541c502}
+      \strng{authornamehash}{1361f42c5d9b091049fe5b4495812745}
+      \strng{authorfullhash}{a53ef173ffc3ac7306f2e5b5f541c502}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.00368.2013}{doi: 10.1152/jn.00368.2013}}
+      \field{journaltitle}{Journal of neurophysiology}
+      \field{number}{7}
+      \field{title}{Cav3-type $\alpha$1T calcium channels mediate transient calcium currents that regulate repetitive firing in Drosophila antennal lobe PNs}
+      \field{volume}{110}
+      \field{year}{2013}
+      \field{pages}{1490\bibrangedash 1496}
+      \range{pages}{7}
     \endentry
     \entry{Maisak2013}{article}{}
       \true{moreauthor}
@@ -787,6 +1105,191 @@
       \field{year}{2020}
       \field{pages}{109\bibrangedash 124}
       \range{pages}{16}
+    \endentry
+    \entry{Davis2020}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=f81e11dae4333059c8c416f5389eb7fd}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Fred\bibnamedelima P},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7772d5a96106e899b911e149c601dc4f}{%
+           family={Nern},
+           familyi={N\bibinitperiod},
+           given={Aljoscha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=837b387a0df1f11bdf58fa11f8074af7}{%
+           family={Picard},
+           familyi={P\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b7acdd94ff5d3bafc83c22a286dfb68e}{%
+           family={Reiser},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=99359b633625918bc44764f233e1f269}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Gerald\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d05f58696610ffc4a982ee1592d93a7}{%
+           family={Eddy},
+           familyi={E\bibinitperiod},
+           given={Sean\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4c15cbfa272c275aa905a67088be9ff4}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={Gilbert\bibnamedelima L},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {eLife Sciences Publications Limited}%
+      }
+      \strng{namehash}{58709f7f51493c9106bf48b4492b5ec9}
+      \strng{fullhash}{4fae3ebc0986ebef700f3acd4fd6b84e}
+      \strng{bibnamehash}{58709f7f51493c9106bf48b4492b5ec9}
+      \strng{authorbibnamehash}{58709f7f51493c9106bf48b4492b5ec9}
+      \strng{authornamehash}{58709f7f51493c9106bf48b4492b5ec9}
+      \strng{authorfullhash}{4fae3ebc0986ebef700f3acd4fd6b84e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.50901}{doi: 10.7554/eLife.50901}}
+      \field{journaltitle}{Elife}
+      \field{title}{A genetic, genomic, and computational resource for exploring neural circuit function}
+      \field{volume}{9}
+      \field{year}{2020}
+      \field{pages}{e50901}
+      \range{pages}{-1}
+    \endentry
+    \entry{Luo2020}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7d768b8628495dd611b0067e2d8d1d7f}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Liqun},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Garland Science}%
+      }
+      \strng{namehash}{7d768b8628495dd611b0067e2d8d1d7f}
+      \strng{fullhash}{7d768b8628495dd611b0067e2d8d1d7f}
+      \strng{bibnamehash}{7d768b8628495dd611b0067e2d8d1d7f}
+      \strng{authorbibnamehash}{7d768b8628495dd611b0067e2d8d1d7f}
+      \strng{authornamehash}{7d768b8628495dd611b0067e2d8d1d7f}
+      \strng{authorfullhash}{7d768b8628495dd611b0067e2d8d1d7f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1201/9781003053972}{doi: 10.1201/9781003053972}}
+      \field{title}{Principles of neurobiology}
+      \field{year}{2020}
+    \endentry
+    \entry{Virtanen2020}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=18703a2bb6a62484483c193a212da2f8}{%
+           family={Virtanen},
+           familyi={V\bibinitperiod},
+           given={Pauli},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=646fbfe08374cc41c2f9bd971d8c4725}{%
+           family={Gommers},
+           familyi={G\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30980b3a77ec5b6dd73ca40c2e6e8816}{%
+           family={Oliphant},
+           familyi={O\bibinitperiod},
+           given={Travis\bibnamedelima E},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=35bb9c71f55048509a3e9018c349ed73}{%
+           family={Haberland},
+           familyi={H\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fbb0c40f5d70be8ce47ce9daafdf5749}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9fd9ed8466bbb96364ae008f2a665e6e}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=09a667aa6a26526bfcccb2676a494e55}{%
+           family={Burovski},
+           familyi={B\bibinitperiod},
+           given={Evgeni},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3d6efaaa3d9682e20787eb06ff70a3d7}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Pearu},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4c7e4c94b846fa41e2fc0a88e0dc656d}{%
+           family={Weckesser},
+           familyi={W\bibinitperiod},
+           given={Warren},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7447cb057596bc2645d3980bb04f5c78}{%
+           family={Bright},
+           familyi={B\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{f252038edd7f112d75da3bf0c1edecbc}
+      \strng{fullhash}{92410631b6185974402a09e62c1893ba}
+      \strng{bibnamehash}{f252038edd7f112d75da3bf0c1edecbc}
+      \strng{authorbibnamehash}{f252038edd7f112d75da3bf0c1edecbc}
+      \strng{authornamehash}{f252038edd7f112d75da3bf0c1edecbc}
+      \strng{authorfullhash}{92410631b6185974402a09e62c1893ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/s41592-019-0686-2}{doi: 10.1038/s41592-019-0686-2}}
+      \field{journaltitle}{Nature methods}
+      \field{number}{3}
+      \field{title}{SciPy 1.0: fundamental algorithms for scientific computing in Python}
+      \field{volume}{17}
+      \field{year}{2020}
+      \field{pages}{261\bibrangedash 272}
+      \range{pages}{12}
     \endentry
     \entry{Zhang2020}{article}{}
       \name{author}{22}{}{%

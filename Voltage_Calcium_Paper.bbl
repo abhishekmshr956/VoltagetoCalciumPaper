@@ -898,6 +898,63 @@
       \field{pages}{212\bibrangedash 216}
       \range{pages}{5}
     \endentry
+    \entry{Behnia2014}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=bfe0d3988ff2deaa9d4632d0be5e47c5}{%
+           family={Behnia},
+           familyi={B\bibinitperiod},
+           given={Rudy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9e6ca685b94f61f4fdfd5621e46dc62a}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Damon\bibnamedelima A},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1f8a13004d318a75f5eab748f3ddaff3}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Adam\bibnamedelima G},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6577820e9bf15897e9ff2f31ea2e1bad}{%
+           family={Clandinin},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f068d8cdd43651216bb672758bd2239b}{%
+           family={Desplan},
+           familyi={D\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{2879499aa59c8aac78ebb6894f249a4a}
+      \strng{fullhash}{5ab4959ed7be83cd9fc3072005990efd}
+      \strng{bibnamehash}{5ab4959ed7be83cd9fc3072005990efd}
+      \strng{authorbibnamehash}{5ab4959ed7be83cd9fc3072005990efd}
+      \strng{authornamehash}{2879499aa59c8aac78ebb6894f249a4a}
+      \strng{authorfullhash}{5ab4959ed7be83cd9fc3072005990efd}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nature13427}{doi: 10.1038/nature13427}}
+      \field{journaltitle}{Nature}
+      \field{number}{7515}
+      \field{title}{Processing properties of ON and OFF pathways for Drosophila motion detection}
+      \field{volume}{512}
+      \field{year}{2014}
+      \field{pages}{427\bibrangedash 430}
+      \range{pages}{4}
+    \endentry
     \entry{Mazurek2014}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=eda5db9b8221639c02895b031b6af9bf}{%
@@ -998,68 +1055,6 @@
       \field{year}{2017}
       \field{pages}{929\bibrangedash 944}
       \range{pages}{16}
-    \endentry
-    \entry{Takemura2017}{article}{}
-      \name{author}{6}{}{%
-        {{uniquename=0,uniquepart=base,hash=be016b8df459a3dbb2f2c533050df070}{%
-           family={Takemura},
-           familyi={T\bibinitperiod},
-           given={Shin-ya},
-           giveni={S\bibinithyphendelim y\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=7772d5a96106e899b911e149c601dc4f}{%
-           family={Nern},
-           familyi={N\bibinitperiod},
-           given={Aljoscha},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=7861c9703a42bede4e09227d6fafb611}{%
-           family={Chklovskii},
-           familyi={C\bibinitperiod},
-           given={Dmitri\bibnamedelima B},
-           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=1a8ea311b33a59d12588245ff77ffab0}{%
-           family={Scheffer},
-           familyi={S\bibinitperiod},
-           given={Louis\bibnamedelima K},
-           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=99359b633625918bc44764f233e1f269}{%
-           family={Rubin},
-           familyi={R\bibinitperiod},
-           given={Gerald\bibnamedelima M},
-           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=ce3e84ebda3ecd6c938deed9b999d989}{%
-           family={Meinertzhagen},
-           familyi={M\bibinitperiod},
-           given={Ian\bibnamedelima A},
-           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {eLife Sciences Publications Limited}%
-      }
-      \strng{namehash}{579565cf92ce7fc9b3a957bb7f652c23}
-      \strng{fullhash}{24d585252b6f0161945eac33b8a63a3a}
-      \strng{bibnamehash}{579565cf92ce7fc9b3a957bb7f652c23}
-      \strng{authorbibnamehash}{579565cf92ce7fc9b3a957bb7f652c23}
-      \strng{authornamehash}{579565cf92ce7fc9b3a957bb7f652c23}
-      \strng{authorfullhash}{24d585252b6f0161945eac33b8a63a3a}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.24394}{doi: 10.7554/eLife.24394}}
-      \field{journaltitle}{Elife}
-      \field{title}{The comprehensive connectome of a neural substrate for ‘ON’motion detection in Drosophila}
-      \field{volume}{6}
-      \field{year}{2017}
-      \field{pages}{e24394}
-      \range{pages}{-1}
     \endentry
     \entry{Borst2020}{article}{}
       \name{author}{3}{}{%
@@ -1199,7 +1194,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{addendum}{\href{http://dx.doi.org/10.1201/9781003053972}{doi: 10.1201/9781003053972}}
-      \field{title}{Principles of neurobiology}
+      \field{title}{Principles of Neurobiology}
       \field{year}{2020}
     \endentry
     \entry{Virtanen2020}{article}{}

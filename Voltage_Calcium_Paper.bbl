@@ -375,7 +375,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/0.1152/jn.91103.2008}{doi: 0.1152/jn.91103.2008}}
+      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.91103.2008}{doi: 10.1152/jn.91103.2008}}
       \field{journaltitle}{Journal of neurophysiology}
       \field{number}{1}
       \field{title}{Cav2-type calcium channels encoded by cac regulate AP-independent neurotransmitter release at cholinergic synapses in adult Drosophila brain}
@@ -955,6 +955,57 @@
       \field{pages}{427\bibrangedash 430}
       \range{pages}{4}
     \endentry
+    \entry{Mauss2014}{article}{}
+      \name{author}{4}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
+           family={Mauss},
+           familyi={M\bibinitperiod},
+           given={Alex\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6059f6936de134c1a1cb7421fbe2b506}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f6aa3187004b990c4a35f51960e8a5e3}{%
+           family={Serbe},
+           familyi={S\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Soc Neuroscience}%
+      }
+      \strng{namehash}{e90b023396af7d6307c835b1e6534535}
+      \strng{fullhash}{498fb622d0f7d36a5b961b95873caf1a}
+      \strng{bibnamehash}{498fb622d0f7d36a5b961b95873caf1a}
+      \strng{authorbibnamehash}{498fb622d0f7d36a5b961b95873caf1a}
+      \strng{authornamehash}{e90b023396af7d6307c835b1e6534535}
+      \strng{authorfullhash}{498fb622d0f7d36a5b961b95873caf1a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.3938-13.2014}{doi: 10.1523/JNEUROSCI.3938-13.2014}}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{number}{6}
+      \field{title}{Optogenetic and pharmacologic dissection of feedforward inhibition in Drosophila motion vision}
+      \field{volume}{34}
+      \field{year}{2014}
+      \field{pages}{2254\bibrangedash 2263}
+      \range{pages}{10}
+    \endentry
     \entry{Mazurek2014}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=eda5db9b8221639c02895b031b6af9bf}{%
@@ -998,6 +1049,69 @@
       \field{year}{2014}
       \field{pages}{92}
       \range{pages}{1}
+    \endentry
+    \entry{Mauss2015}{article}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
+           family={Mauss},
+           familyi={M\bibinitperiod},
+           given={Alex\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a30d2a2847a79bfd9c9d00102dda0bfa}{%
+           family={Pankova},
+           familyi={P\bibinitperiod},
+           given={Katarina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5d35a254329ad4824ee1efa1f2fcd377}{%
+           family={Arenz},
+           familyi={A\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7772d5a96106e899b911e149c601dc4f}{%
+           family={Nern},
+           familyi={N\bibinitperiod},
+           given={Aljoscha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=99359b633625918bc44764f233e1f269}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Gerald\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5e1e0c27d2867b1f24601728f8c49008}
+      \strng{fullhash}{4b5443584623e64e9c6c93c51c710eb6}
+      \strng{bibnamehash}{5e1e0c27d2867b1f24601728f8c49008}
+      \strng{authorbibnamehash}{5e1e0c27d2867b1f24601728f8c49008}
+      \strng{authornamehash}{5e1e0c27d2867b1f24601728f8c49008}
+      \strng{authorfullhash}{4b5443584623e64e9c6c93c51c710eb6}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2015.06.035}{doi: 10.1016/j.cell.2015.06.035}}
+      \field{journaltitle}{Cell}
+      \field{number}{2}
+      \field{title}{Neural circuit to integrate opposing motions in the visual field}
+      \field{volume}{162}
+      \field{year}{2015}
+      \field{pages}{351\bibrangedash 362}
+      \range{pages}{12}
     \endentry
     \entry{Arenz2017}{article}{}
       \name{author}{5}{}{%
@@ -1055,6 +1169,51 @@
       \field{year}{2017}
       \field{pages}{929\bibrangedash 944}
       \range{pages}{16}
+    \endentry
+    \entry{Wienecke2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=37e34122a9e579ca6b804331948dd4af}{%
+           family={Wienecke},
+           familyi={W\bibinitperiod},
+           given={Carl\bibnamedelima FR},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c5c90e1107946320d63c86f99272fe5d}{%
+           family={Leong},
+           familyi={L\bibinitperiod},
+           given={Jonathan\bibnamedelima CS},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6577820e9bf15897e9ff2f31ea2e1bad}{%
+           family={Clandinin},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{69ecd76f2af60ac39e3b73f218f00ea4}
+      \strng{fullhash}{2e252b66d0b6a68dddc1673e94f268be}
+      \strng{bibnamehash}{2e252b66d0b6a68dddc1673e94f268be}
+      \strng{authorbibnamehash}{2e252b66d0b6a68dddc1673e94f268be}
+      \strng{authornamehash}{69ecd76f2af60ac39e3b73f218f00ea4}
+      \strng{authorfullhash}{2e252b66d0b6a68dddc1673e94f268be}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2018.07.005}{doi: 10.1016/j.neuron.2018.07.005}}
+      \field{journaltitle}{Neuron}
+      \field{number}{4}
+      \field{title}{Linear summation underlies direction selectivity in Drosophila}
+      \field{volume}{99}
+      \field{year}{2018}
+      \field{pages}{680\bibrangedash 688}
+      \range{pages}{9}
     \endentry
     \entry{Borst2020}{article}{}
       \name{author}{3}{}{%

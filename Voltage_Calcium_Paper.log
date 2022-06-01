@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  31 MAY 2022 10:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  1 JUN 2022 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2146,11 +2146,15 @@ File: images/figure3.pdf Graphic file (type pdf)
 <use images/figure3.pdf>
 Package pdftex.def Info: images/figure3.pdf  used on input line 185.
 (pdftex.def)             Requested size: 449.0849pt x 457.93753pt.
-<images/figure4.pdf, id=265, 597.52838pt x 558.78659pt>
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/figure4.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<images/figure4.pdf, id=265, 597.52838pt x 328.99211pt>
 File: images/figure4.pdf Graphic file (type pdf)
 <use images/figure4.pdf>
 Package pdftex.def Info: images/figure4.pdf  used on input line 196.
-(pdftex.def)             Requested size: 449.0849pt x 419.98419pt.
+(pdftex.def)             Requested size: 449.0849pt x 247.27055pt.
 <images/figure5.pdf, id=266, 542.025pt x 722.7pt>
 File: images/figure5.pdf Graphic file (type pdf)
 <use images/figure5.pdf>
@@ -2198,13 +2202,13 @@ Package logreq Info: Writing requests to 'Voltage_Calcium_Paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33780 strings out of 492649
- 628210 string characters out of 6129622
- 1097373 words of memory out of 5000000
- 36630 multiletter control sequences out of 15000+600000
- 701593 words of font info for 573 fonts, out of 8000000 for 9000
+ 33793 strings out of 492649
+ 628467 string characters out of 6129622
+ 1097207 words of memory out of 5000000
+ 36631 multiletter control sequences out of 15000+600000
+ 702906 words of font info for 583 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,50p,10466b,1767s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,12n,50p,10466b,1765s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-02.enc}
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/
 usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/opensans/opensans-04.enc}{/us
@@ -2217,10 +2221,10 @@ Sans-Regular.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/st
 ix-mathex.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/stix-
 mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/stix/stix-mat
 hrm.pfb>
-Output written on Voltage_Calcium_Paper.pdf (18 pages, 720576 bytes).
+Output written on Voltage_Calcium_Paper.pdf (18 pages, 720525 bytes).
 PDF statistics:
- 930 PDF objects out of 1000 (max. 8388607)
- 449 compressed objects within 5 object streams
+ 932 PDF objects out of 1000 (max. 8388607)
+ 448 compressed objects within 5 object streams
  77 named destinations out of 1000 (max. 500000)
  61062 words of extra memory for PDF output out of 61914 (max. 10000000)
 

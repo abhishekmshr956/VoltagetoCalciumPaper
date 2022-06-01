@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'Voltage_Calcium_Paper.blg'
-[27] biber-darwin:313> INFO - === Wed May 25, 2022, 15:40:38
-[45] Biber.pm:371> INFO - Reading 'Voltage_Calcium_Paper.bcf'
-[112] Biber.pm:857> INFO - Found 28 citekeys in bib section 0
-[123] Biber.pm:3976> INFO - Processing section 0
-[132] Biber.pm:4136> INFO - Looking for bibtex format file 'reference.bib' for section 0
-[134] bibtex.pm:1500> INFO - LaTeX decoding ...
-[184] bibtex.pm:1316> INFO - Found BibTeX data source 'reference.bib'
-[485] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[485] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[485] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[485] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[516] bbl.pm:617> INFO - Writing 'Voltage_Calcium_Paper.bbl' with encoding 'UTF-8'
-[549] bbl.pm:720> INFO - Output to Voltage_Calcium_Paper.bbl
+[29] biber-darwin:313> INFO - === Wed Jun  1, 2022, 17:25:12
+[48] Biber.pm:371> INFO - Reading 'Voltage_Calcium_Paper.bcf'
+[110] Biber.pm:857> INFO - Found 28 citekeys in bib section 0
+[121] Biber.pm:3976> INFO - Processing section 0
+[131] Biber.pm:4136> INFO - Looking for bibtex format file 'reference.bib' for section 0
+[133] bibtex.pm:1500> INFO - LaTeX decoding ...
+[178] bibtex.pm:1316> INFO - Found BibTeX data source 'reference.bib'
+[422] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[423] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[423] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[423] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[450] bbl.pm:617> INFO - Writing 'Voltage_Calcium_Paper.bbl' with encoding 'UTF-8'
+[484] bbl.pm:720> INFO - Output to Voltage_Calcium_Paper.bbl

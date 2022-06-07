@@ -235,9 +235,9 @@
 \renewcommand{\AB@affilsepx}{; \protect\Affilfont}
 
 \newcommand{\themetadata}{%
-    \textbf{*For correspondence:\\}  \@correspondence\par
-    \ifx\empty\@contribution\else
-    \bigskip\@contribution\par\fi
+    %\textbf{*For correspondence:\\}  \@correspondence\par
+    %\ifx\empty\@contribution\else
+    %\bigskip\@contribution\par\fi
     \ifx\empty\@presentaddress\else
     \bigskip\textbf{Present address: }\@presentaddress\par\fi
     \bigskip

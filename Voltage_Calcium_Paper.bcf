@@ -139,7 +139,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
@@ -1997,22 +1997,23 @@
     <bcf:citekey order="15">Wienecke2018</bcf:citekey>
     <bcf:citekey order="16">Mauss2014</bcf:citekey>
     <bcf:citekey order="17">Mauss2015</bcf:citekey>
-    <bcf:citekey order="18">Jin2012</bcf:citekey>
-    <bcf:citekey order="19">Murata2005</bcf:citekey>
-    <bcf:citekey order="20">Cao2013</bcf:citekey>
-    <bcf:citekey order="21">Littleton2000</bcf:citekey>
-    <bcf:citekey order="21">King2007</bcf:citekey>
-    <bcf:citekey order="22">Gu2009</bcf:citekey>
-    <bcf:citekey order="22">Iniguez2013</bcf:citekey>
-    <bcf:citekey order="23">Davis2020</bcf:citekey>
-    <bcf:citekey order="24">Chen2013</bcf:citekey>
-    <bcf:citekey order="25">Jin2012</bcf:citekey>
-    <bcf:citekey order="26">Maisak2013</bcf:citekey>
+    <bcf:citekey order="18">Yang2016</bcf:citekey>
+    <bcf:citekey order="19">Jin2012</bcf:citekey>
+    <bcf:citekey order="20">Murata2005</bcf:citekey>
+    <bcf:citekey order="21">Cao2013</bcf:citekey>
+    <bcf:citekey order="22">Littleton2000</bcf:citekey>
+    <bcf:citekey order="22">King2007</bcf:citekey>
+    <bcf:citekey order="23">Gu2009</bcf:citekey>
+    <bcf:citekey order="23">Iniguez2013</bcf:citekey>
+    <bcf:citekey order="24">Davis2020</bcf:citekey>
+    <bcf:citekey order="25">Chen2013</bcf:citekey>
+    <bcf:citekey order="26">Jin2012</bcf:citekey>
     <bcf:citekey order="27">Maisak2013</bcf:citekey>
-    <bcf:citekey order="28">Pologruto2003</bcf:citekey>
-    <bcf:citekey order="29">Arenz2017</bcf:citekey>
-    <bcf:citekey order="30">Jia2011</bcf:citekey>
-    <bcf:citekey order="31">Mazurek2014</bcf:citekey>
+    <bcf:citekey order="28">Maisak2013</bcf:citekey>
+    <bcf:citekey order="29">Pologruto2003</bcf:citekey>
+    <bcf:citekey order="30">Arenz2017</bcf:citekey>
+    <bcf:citekey order="31">Jia2011</bcf:citekey>
+    <bcf:citekey order="32">Mazurek2014</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

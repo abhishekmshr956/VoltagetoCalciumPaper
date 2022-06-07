@@ -956,7 +956,7 @@
       \range{pages}{4}
     \endentry
     \entry{Mauss2014}{article}{}
-      \name{author}{4}{uniquelist=2}{%
+      \name{author}{4}{}{%
         {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
            family={Mauss},
            familyi={M\bibinitperiod},
@@ -985,11 +985,11 @@
       \list{publisher}{1}{%
         {Soc Neuroscience}%
       }
-      \strng{namehash}{e90b023396af7d6307c835b1e6534535}
+      \strng{namehash}{f4cd8c9d879f83b490e3adc16c4330b0}
       \strng{fullhash}{498fb622d0f7d36a5b961b95873caf1a}
       \strng{bibnamehash}{498fb622d0f7d36a5b961b95873caf1a}
       \strng{authorbibnamehash}{498fb622d0f7d36a5b961b95873caf1a}
-      \strng{authornamehash}{e90b023396af7d6307c835b1e6534535}
+      \strng{authornamehash}{f4cd8c9d879f83b490e3adc16c4330b0}
       \strng{authorfullhash}{498fb622d0f7d36a5b961b95873caf1a}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
@@ -1051,7 +1051,7 @@
       \range{pages}{1}
     \endentry
     \entry{Mauss2015}{article}{}
-      \name{author}{6}{uniquelist=2}{%
+      \name{author}{6}{}{%
         {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
            family={Mauss},
            familyi={M\bibinitperiod},
@@ -1092,11 +1092,11 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{5e1e0c27d2867b1f24601728f8c49008}
+      \strng{namehash}{f4cd8c9d879f83b490e3adc16c4330b0}
       \strng{fullhash}{4b5443584623e64e9c6c93c51c710eb6}
-      \strng{bibnamehash}{5e1e0c27d2867b1f24601728f8c49008}
-      \strng{authorbibnamehash}{5e1e0c27d2867b1f24601728f8c49008}
-      \strng{authornamehash}{5e1e0c27d2867b1f24601728f8c49008}
+      \strng{bibnamehash}{f4cd8c9d879f83b490e3adc16c4330b0}
+      \strng{authorbibnamehash}{f4cd8c9d879f83b490e3adc16c4330b0}
+      \strng{authornamehash}{f4cd8c9d879f83b490e3adc16c4330b0}
       \strng{authorfullhash}{4b5443584623e64e9c6c93c51c710eb6}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
@@ -1112,6 +1112,69 @@
       \field{year}{2015}
       \field{pages}{351\bibrangedash 362}
       \range{pages}{12}
+    \endentry
+    \entry{Yang2016}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=c5084a8d608d2688f07b36bcb0609e35}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Helen\bibnamedelima H},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce234f07b5d17b9181e50619e32409a4}{%
+           family={St-Pierre},
+           familyi={S\bibinithyphendelim P\bibinitperiod},
+           given={Fran{ç}ois},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6f376e887d70f316059ad025b14b3ba6}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xulu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fd2faa631a3123805eccfd469eed077a}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Xiaozhe},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=15109bd6f78e267283c6189d8db4a157}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima Z},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6577820e9bf15897e9ff2f31ea2e1bad}{%
+           family={Clandinin},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6ca9b1f5e59335919f344918248d5b16}
+      \strng{fullhash}{8fc712b4fb143884c4b2071c0daad2f1}
+      \strng{bibnamehash}{6ca9b1f5e59335919f344918248d5b16}
+      \strng{authorbibnamehash}{6ca9b1f5e59335919f344918248d5b16}
+      \strng{authornamehash}{6ca9b1f5e59335919f344918248d5b16}
+      \strng{authorfullhash}{8fc712b4fb143884c4b2071c0daad2f1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2016.05.031}{doi: 10.1016/j.cell.2016.05.031}}
+      \field{journaltitle}{Cell}
+      \field{number}{1}
+      \field{title}{Subcellular imaging of voltage and calcium signals reveals neural processing in vivo}
+      \field{volume}{166}
+      \field{year}{2016}
+      \field{pages}{245\bibrangedash 257}
+      \range{pages}{13}
     \endentry
     \entry{Arenz2017}{article}{}
       \name{author}{5}{}{%
